@@ -27,6 +27,11 @@ class Kitcat:
         else:
             self.state = Kitcat.States.PATROLLING
 
+    def dangle_string(self) -> None:
+        """Dangles a string in front of this Kitcat. Transitions it to ATTACCING."""
+
+        raise NotImplementedError  # TODO
+
     def serialize(self) -> dict:
         """
         Returns a dict representation of a Kitcat object
