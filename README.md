@@ -122,7 +122,7 @@ index 723966a..8af5fc8 100644
 --- a/kitcat.py
 +++ b/kitcat.py
 @@ -35,7 +35,8 @@ class Kitcat:
- 
+
          return {
              'name': self.name,
 -            'age': self.age
@@ -145,4 +145,36 @@ Good thing we caught it before integrating the code into another project, huh?
 Some dork is tryin' to merge his changes in the `unit_testing_0_feature/jinhai/enhanced-pounce` branch into `unit_testing_0_api`. As can be seen from the CI build, the tests are failing, which is a good indication that merging his changes will break the API. **Can you fix his feature branch and merge it once CI passes?**
 
 ## Test-Driven Development (TDD)
-A common modern coding practice is to _invert_ this pattern. Like, instead of using automated tests to verify your assumptions, people use them to _create a standard
+A common modern coding practice is to _invert_ this pattern. Like, instead of using automated tests to verify your assumptions, people use them to _create a standard that they should write their implementation to conform to._
+
+```python
+def return_dummy_dictionary() -> dict:
+    pass  # TODO
+```
+
+```python
+# I should write return_dummy_dictionary in such a way
+# that it passes this test.
+def test_return_dummy_dictionary(self):
+    assert type(return_dummy_dictionary()) is dict
+    assert 'value' in return_dummy_dictionary()
+    assert return_dummy_dictionary()['value'] is not None
+```
+
+```python
+def return_dummy_dictionary() -> dict:
+    return {'value': 'DUMMY_VALUE'}
+```
+
+```
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+```
+
+## Another activity!
+So, we want to be able to _dangle strings_ in front of Kitcats. What we _expect_ to happen is that the Kitcat _should_ immediately transition to an _ATTACCING_ state.
+
+The branch is called `unit_testing_0_feature/kourii/dangle-string`. See if you can implement the feature so that the tests pass!
