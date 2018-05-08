@@ -35,7 +35,8 @@ class Kitcat:
 
         return {
             'name': self.name,
-            'age': self.age
+            'age': self.age,
+            'state': self.state.name
         }
 
     def __str__(self):
