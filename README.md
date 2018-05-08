@@ -3,25 +3,29 @@ So, like, when you write code and stuff, sometimes it's useful to verify your as
 
 Here's a **simple class.**
 
-TODO
 ```python
 from logging import getLogger
 from random import randint
 from enum import Enum
 
+
 class Kitcat:
     """A simulation of a cat bot."""
 
-    def __init__(self, name='', age=0, starting_state=Kitcat.States.SLEEPING):
+    def __init__(self, name='', age=0, starting_state=None):
         self.name = name
         self.age = age
         self.state = starting_state
 
         if not self.name:
-            self.name = 'mini_jinhai_{rand}'.format(rand=str(randint(0, 10000)))
+            self.name = 'mini_jinhai_{rand}'.format(
+                rand=str(randint(0, 10000))
+            )
+        if not self.state:
+            self.state = Kitcat.States.SLEEPING
         self._log = getLogger('Kitcat_{name}'.format(name=self.name))
 
-    def hunt() -> None:
+    def hunt(self) -> None:
         """Transitions this Kitcat into a PATROLLING or ATTACCING state."""
 
         if self.state is Kitcat.States.PATROLLING:
@@ -30,11 +34,14 @@ class Kitcat:
             self.state = Kitcat.States.PATROLLING
 
     def serialize(self) -> dict:
-        """Returns a dict representation of a Kitcat object (e.g. to pass into Flask's jsonify())"""
+        """
+        Returns a dict representation of a Kitcat object
+        (e.g. to pass into Flask's jsonify())
+        """
 
         return {
             'name': self.name,
-            'age': age
+            'age': self.age
         }
 
     def __str__(self):
