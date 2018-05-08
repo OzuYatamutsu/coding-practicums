@@ -142,7 +142,7 @@ OK
 Good thing we caught it before integrating the code into another project, huh?
 
 ### Cool activity??
-Some dork is tryin' to merge his changes in the `unit_testing_0_feature/jinhai/enhanced-pounce` branch into `unit_testing_0_api`. As can be seen from the CI build, the tests are failing, which is a good indication that merging his changes will break the API. **Can you fix his feature branch and merge it once CI passes?**
+Some dork is tryin' to [merge his changes](https://github.com/OzuYatamutsu/coding-practicums/pull/1) in the `unit_testing_0_feature/jinhai/enhanced-pounce` branch into `unit_testing_0_api`. As can be seen from the CI build, the tests are failing, which is a good indication that merging his changes will break the API. **Can you fix his feature branch and merge it once CI passes?**
 
 ## Test-Driven Development (TDD)
 A common modern coding practice is to _invert_ this pattern. Like, instead of using automated tests to verify your assumptions, people use them to _create a standard that they should write their implementation to conform to._
