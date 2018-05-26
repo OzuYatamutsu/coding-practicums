@@ -1,3 +1,5 @@
+from pymysql import connect
+from pymysql.cursors import DictCursor
 from flask import Flask, render_template, redirect
 app = Flask(__name__)
 
@@ -32,10 +34,18 @@ def get_user_info(username: str) -> str:
     # Query the database for information
     query = "SELECT user_info FROM users WHERE username = '" + username + "';"
     
-    if True:  # TODO
+    try:
+        # Connect to database, run query, and exit
+        conn = connect(
+            host='localhost', user='root', password='',
+            db='eitm', cursorclass=DictCursor
+        )
+        
+        with conn.cursor() as cursor:
+            cursor.execute(query)
+            return cursor.fetchone()['user_info']
+    except Exception:
         return ''
-    return 'test_info'   # TODO
-
 
 if __name__ == '__main__':
     app.run()
