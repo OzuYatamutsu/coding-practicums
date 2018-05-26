@@ -10,9 +10,15 @@
             username = document.getElementById("username").value
             document.location.href = "http://localhost:5000/get_user/" + username
         }
+
+        function check_key_press(event) {
+            if (event.keyCode == 13) {
+                look_up_username()
+            }
+        }
     </script>
   </head>
-  <body>
+  <body onkeydown="return check_key_press(event)">
     <form class="form-signin">
       <div class="text-center mb-4">
         <h1 class="h3 mb-3 font-weight-normal">Cat information database</h1>
