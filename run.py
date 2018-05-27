@@ -33,14 +33,14 @@ def get_user_info(username: str) -> str:
 
     # Query the database for information
     query = "SELECT user_info FROM users WHERE username = '" + username + "';"
-    
+
     try:
         # Connect to database, run query, and exit
         conn = connect(
             host='localhost', user='root', password='',
             db='eitm', cursorclass=DictCursor
         )
-        
+
         with conn.cursor() as cursor:
             cursor.execute(query)
             return cursor.fetchone()['user_info']
@@ -48,5 +48,5 @@ def get_user_info(username: str) -> str:
         return ''
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=80)
 
