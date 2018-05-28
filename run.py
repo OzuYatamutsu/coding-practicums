@@ -32,7 +32,7 @@ def get_user_info(username: str) -> str:
     """Returns string information about the user (empty string if not found)"""
 
     # Query the database for information
-    query = "SELECT user_info FROM users WHERE username = '" + username + "';"
+    query = "SELECT user_info FROM user_info WHERE username = '" + username + "';"
 
     try:
         # Connect to database, run query, and exit
