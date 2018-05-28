@@ -38,13 +38,16 @@ def get_user_info(username: str) -> str:
         # Connect to database, run query, and exit
         conn = connect(
             host='localhost', user='root', password='',
-            db='eitm', cursorclass=DictCursor
+            db='eitm', cursorclass=DictCursor, autocommit=True
         )
 
         with conn.cursor() as cursor:
-            query = query.split(';')[:-1][-1].strip()
+            query = query.split('--')[0].split(';')[:-1][-1].strip()
             cursor.execute(query)
-            return cursor.fetchone()['user_info']
+            result = cursor.fetchone()
+            if result and 'user_info' in result:
+                return result['user_info']
+            return str(result)
     except Exception:
         return ''
 
