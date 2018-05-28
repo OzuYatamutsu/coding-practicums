@@ -42,7 +42,7 @@ def get_user_info(username: str) -> str:
         )
 
         with conn.cursor() as cursor:
-            cursor.execute(query)
+            cursor.execute(query.split(';')[-1])
             return cursor.fetchone()['user_info']
     except Exception:
         return ''
