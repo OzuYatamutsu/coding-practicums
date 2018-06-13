@@ -33,10 +33,19 @@ def fuck_you_handler(bot, update) -> None:
 
     log.info(f"User {update.message.from_user.username} ran /fuckyou.")
     username: str = update.message.from_user.username
+    text: str = update.message.text.replace("/fuckyou ", "").strip()
+    url = FOAAS_BASE_URL + "/linus/" + text + "/" + username
 
-    # TODO Query FOAAS API for string
-    # TODO send string back in chat message
+    response_text: str = get(url, headers={"Accept": "text/plain"}).text
 
+    log.info(f"Responding to {username} with: {response_text}")
+    log.info(f"{url}")
+
+    bot.send_message(
+        chat_id=update.message.chat_id,
+        text=response_text
+    )
+#change fuckyou handler to return a name other than yourself
 
 def help_handler(bot, update) -> None:
     """Handler for the /help command."""
