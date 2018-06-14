@@ -19,6 +19,9 @@ class Kitcat:
             self.state = Kitcat.States.SLEEPING
         self._log = getLogger('Kitcat_{name}'.format(name=self.name))
 
+        # Hunt as soon as the cat is created!
+        self.hunt()
+
     def hunt(self) -> None:
         """Transitions this Kitcat into a PATROLLING or ATTACCING state."""
 
@@ -26,6 +29,8 @@ class Kitcat:
             self.state = Kitcat.States.ATTACCING
         else:
             self.state = Kitcat.States.PATROLLING
+
+        _log.info("%s is now %s!", self.name, self.state.name)
 
     def serialize(self) -> dict:
         """
