@@ -1,0 +1,11 @@
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\bin\Debug\netcoreapp2.1\Trial0.deps.json
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\bin\Debug\netcoreapp2.1\Trial0.runtimeconfig.json
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\bin\Debug\netcoreapp2.1\Trial0.runtimeconfig.dev.json
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\bin\Debug\netcoreapp2.1\Trial0.dll
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\bin\Debug\netcoreapp2.1\Trial0.pdb
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\obj\Debug\netcoreapp2.1\Trial0.csprojAssemblyReference.cache
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\obj\Debug\netcoreapp2.1\Trial0.csproj.CoreCompileInputs.cache
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\obj\Debug\netcoreapp2.1\Trial0.AssemblyInfoInputs.cache
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\obj\Debug\netcoreapp2.1\Trial0.AssemblyInfo.cs
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\obj\Debug\netcoreapp2.1\Trial0.dll
+C:\Users\Sean Collins\dev\coding-practicums\Trial0\obj\Debug\netcoreapp2.1\Trial0.pdb
