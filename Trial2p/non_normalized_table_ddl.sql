@@ -1,4 +1,4 @@
-CREATE TABLE Current_Location (
+CREATE TABLE Current_Locations (
     location VARCHAR2(255) NOT NULL,
     first_name VARCHAR2(255) NOT NULL,
     last_name VARCHAR2(255) NOT NULL,
@@ -9,8 +9,8 @@ CREATE TABLE Current_Location (
 CREATE TABLE Operatives (
     first_name VARCHAR2(255) NOT NULL,
     last_name VARCHAR2(255) NOT NULL,
-    age_years TINYINT UNSIGNED NOT NULL,
-    weight_kg FLOAT UNSIGNED NOT NULL,
+    age_years TINYINT UNSIGNED,
+    weight_kg FLOAT UNSIGNED,
     num_assignments INTEGER UNSIGNED,
     current_location VARCHAR2(255),
 
@@ -39,5 +39,7 @@ CREATE TABLE Expense_Accounts (
     first_name VARCHAR2(255) NOT NULL,
     last_name VARCHAR2(255) NOT NULL,
 
-    PRIMARY KEY (account_id, first_name, last_name)
+    PRIMARY KEY (account_id, first_name, last_name),
+    CONSTRAINT is_valid_account_id
+        CHECK (account_id BETWEEN 1000 AND 9999)
 );
