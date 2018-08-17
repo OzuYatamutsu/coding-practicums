@@ -5,7 +5,7 @@ CREATE TABLE Locations (
 );
 
 CREATE TABLE Expense_Accounts (
-    account_id INTEGER UNSIGNED NOT NULL,
+    account_id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
 
     PRIMARY KEY (account_id),
     CONSTRAINT is_valid_account_id
@@ -13,7 +13,7 @@ CREATE TABLE Expense_Accounts (
 ); 
 
 CREATE TABLE Operatives (
-    operative_id INTEGER UNSIGNED NOT NULL,
+    operative_id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
     first_name VARCHAR2(255) NOT NULL,
     last_name VARCHAR2(255) NOT NULL,
     current_location VARCHAR2(255), 
@@ -27,7 +27,7 @@ CREATE TABLE Operatives (
 );
 
 CREATE TABLE Assignments (
-    assignment_id INTEGER UNSIGNED NOT NULL,
+    assignment_id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
     assignment_date DATE NOT NULL,
     location VARCHAR2(255),
 

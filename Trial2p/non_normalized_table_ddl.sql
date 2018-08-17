@@ -3,7 +3,7 @@ CREATE TABLE Current_Locations (
     first_name VARCHAR2(255) NOT NULL,
     last_name VARCHAR2(255) NOT NULL,
 
-    PRIMARY KEY (location)
+    PRIMARY KEY (location, first_name, last_name)
 );
 
 CREATE TABLE Operatives (
