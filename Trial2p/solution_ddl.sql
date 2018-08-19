@@ -1,7 +1,8 @@
 CREATE TABLE Locations (
-    location VARCHAR2(255) NOT NULL,
+    location_id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+    location VARCHAR(255) NOT NULL,
 
-    PRIMARY KEY (location)
+    PRIMARY KEY (location_id)
 );
 
 CREATE TABLE Expense_Accounts (
@@ -14,26 +15,26 @@ CREATE TABLE Expense_Accounts (
 
 CREATE TABLE Operatives (
     operative_id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
-    first_name VARCHAR2(255) NOT NULL,
-    last_name VARCHAR2(255) NOT NULL,
-    current_location VARCHAR2(255), 
+    first_name VARCHAR(255) NOT NULL,
+    last_name VARCHAR(255) NOT NULL,
+    current_location_id INTEGER UNSIGNED,
     age_years TINYINT UNSIGNED,
     weight_kg FLOAT UNSIGNED, 
 
     PRIMARY KEY (operative_id),
-    FOREIGN KEY (current_location)
-        REFERENCES Locations(location)
+    FOREIGN KEY (current_location_id)
+        REFERENCES Locations(location_id)
         ON DELETE SET NULL 
 );
 
 CREATE TABLE Assignments (
     assignment_id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
     assignment_date DATE NOT NULL,
-    location VARCHAR2(255),
+    location_id INTEGER UNSIGNED,
 
     PRIMARY KEY (assignment_id),
-    FOREIGN KEY (location)
-        REFERENCES Locations(location)
+    FOREIGN KEY (location_id)
+        REFERENCES Locations(location_id)
         ON DELETE SET NULL
 );
 
