@@ -24,7 +24,7 @@ ASSIGNMENTS_INSERT = (
 )
 
 # Generate names
-NUM_NAMES = 250
+NUM_NAMES = 12500
 
 FIRST_NAMES = list(set([mock_generator.name().split()[0] for i in range(NUM_NAMES)]))
 LAST_NAMES = list(set([mock_generator.name().split()[1] for i in range(NUM_NAMES*2)]))[0:len(FIRST_NAMES)]
@@ -32,17 +32,17 @@ AGES = [randint(20, 45) for i in range(len(FIRST_NAMES))]
 WEIGHTS = [(random() + random()) * randint(15, 20) for i in range(NUM_NAMES)]
 
 # Generate locations
-NUM_LOCATIONS = 150
+NUM_LOCATIONS = 12500
 
 LOCATIONS = list(set([' '.join(mock_generator.address().split('\n')[1].split()[:-1]) for i in range(NUM_LOCATIONS)]))
 
 # Generate expense accounts
-NUM_EXPENSE_ACCOUNTS = 35
+NUM_EXPENSE_ACCOUNTS = 550
 
 EXPENSE_ACCOUNT_NUMBERS = list(set([randint(1200, 9500) for i in range(NUM_EXPENSE_ACCOUNTS)]))
 
 # Generate assignments
-NUM_ASSIGNMENTS = 345
+NUM_ASSIGNMENTS = 16280
 
 ASSIGNMENT_DATES = [
     (str(randint(2017, 2018)) + '-' + str(randint(1, 12)).zfill(2) + '-' + str(randint(1, 25)).zfill(2))
@@ -113,7 +113,7 @@ for i in range(len(OPERATIVES)):
 # ^ LOCATIONS OK (3/4)
 
 EXPENSE_ACCOUNTS = []
-for i in range(NUM_EXPENSE_ACCOUNTS):
+for i in range(len(EXPENSE_ACCOUNT_NUMBERS)):
     name_index = randrange(len(FIRST_NAMES))
 
     EXPENSE_ACCOUNTS.append({
@@ -123,15 +123,6 @@ for i in range(NUM_EXPENSE_ACCOUNTS):
     })
 
 # ^ OPERATIVES OK (4/4)
-
-print(str(LOCATIONS))
-print()
-print(str(EXPENSE_ACCOUNTS))
-print()
-print(str(ASSIGNMENTS))
-print()
-print(str(OPERATIVES))
-print()
 
 # Now insert
 conn = connect(

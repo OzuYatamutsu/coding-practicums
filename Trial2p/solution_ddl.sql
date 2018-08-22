@@ -1,12 +1,12 @@
 CREATE TABLE Locations (
     location_id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
-    location VARCHAR(255) NOT NULL,
+    location VARCHAR(255) NOT NULL UNIQUE,
 
     PRIMARY KEY (location_id)
 );
 
 CREATE TABLE Expense_Accounts (
-    account_id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+    account_id INTEGER UNSIGNED NOT NULL,
 
     PRIMARY KEY (account_id),
     CONSTRAINT is_valid_account_id
