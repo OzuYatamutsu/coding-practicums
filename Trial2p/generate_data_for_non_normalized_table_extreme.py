@@ -24,7 +24,7 @@ ASSIGNMENTS_INSERT = (
 )
 
 # Generate names
-NUM_NAMES = 12500
+NUM_NAMES = 69267
 
 FIRST_NAMES = list(set([mock_generator.name().split()[0] for i in range(NUM_NAMES)]))
 LAST_NAMES = list(set([mock_generator.name().split()[1] for i in range(NUM_NAMES*2)]))[0:len(FIRST_NAMES)]
@@ -32,7 +32,7 @@ AGES = [randint(20, 45) for i in range(len(FIRST_NAMES))]
 WEIGHTS = [(random() + random()) * randint(15, 20) for i in range(NUM_NAMES)]
 
 # Generate locations
-NUM_LOCATIONS = 12500
+NUM_LOCATIONS = 240556
 
 LOCATIONS = list(set([' '.join(mock_generator.address().split('\n')[1].split()[:-1]) for i in range(NUM_LOCATIONS)]))
 
@@ -42,10 +42,10 @@ NUM_EXPENSE_ACCOUNTS = 550
 EXPENSE_ACCOUNT_NUMBERS = list(set([randint(1200, 9500) for i in range(NUM_EXPENSE_ACCOUNTS)]))
 
 # Generate assignments
-NUM_ASSIGNMENTS = 16280
+NUM_ASSIGNMENTS = 16280768
 
 ASSIGNMENT_DATES = [
-    (str(randint(2017, 2018)) + '-' + str(randint(1, 12)).zfill(2) + '-' + str(randint(1, 25)).zfill(2))
+    (str(randint(1980, 2018)) + '-' + str(randint(1, 12)).zfill(2) + '-' + str(randint(1, 25)).zfill(2))
     for i in range(NUM_ASSIGNMENTS)
 ]
 
