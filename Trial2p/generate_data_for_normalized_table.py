@@ -59,7 +59,7 @@ ASSIGNMENTS = [{
     'location_id': randint(1, len(LOCATIONS))
 } for i in range(NUM_ASSIGNMENTS)]
 ASSIGNMENT_MEMBERS = []
-for i in ASSIGNMENTS:
+for i in range(len(ASSIGNMENTS)):
     if randint(0, 1):
         # Generate an assignment with multiple people
         num_people_on_assignment = randint(1, 10)
