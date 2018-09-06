@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+*.swp
+Trial3/syslog_sim.log
+*.DS_Store

@@ -1,0 +1,1246 @@
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+com.apple.xpc.launchd[1] (com.apple.mdworker.single.02000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.mdworker.single.01000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+TeamViewer_Service[54]: CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=33
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+parsecd[437]: libcoreservices: _dirhelper: 666: mkdir: path=/var/folders/fz/dvcv7l690654r1dwm1177g880000gn/0/com.apple.parsecd/ modes[0]=0755: Operation not permitted
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+com.apple.xpc.launchd[1] (com.apple.mdworker.single.07000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+TeamViewer_Service[54]: CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=33
+parsecd[437]: BUG in libdispatch client: dispatch_mig_server: mach_msg() failed (ipc/send) msg too small - 0x10000008
+TeamViewer_Desktop[480]: SetUserLoggedIn(0x7fd34379f6f0): changed to: 1
+TeamViewer_Desktop[480]: SetSessionLocked: 0x7fd34379f6f0 : Unlocked
+com.apple.xpc.launchd[1] (com.apple.quicklook[737]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+syslogd[39]: ASL Sender Statistics
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.738, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+com.apple.xpc.launchd[1] (com.apple.quicklook[740]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+com.apple.xpc.launchd[1] (com.apple.quicklook[743]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+syslogd[39]: ASL Sender Statistics
+com.apple.xpc.launchd[1] (com.apple.quicklook[746]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+com.apple.xpc.launchd[1] (com.apple.quicklook[748]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+Dock[357]: BUG in libdispatch client: kevent[mach_recv] monitored resource vanished before the source cancel handler was invoked
+com.apple.xpc.launchd[1] (com.apple.PubSub.Agent[756]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.pubsub.ipc
+com.apple.xpc.launchd[1] (com.apple.PubSub.Agent[756]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.pubsub.notification
+syslogd[39]: ASL Sender Statistics
+com.apple.xpc.launchd[1] (com.apple.quicklook[757]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.761, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.quicklook[762]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+syslogd[39]: ASL Sender Statistics
+com.apple.xpc.launchd[1] (com.apple.quicklook[772]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+Telegram[423]: assertion failed: 17G65: libxpc.dylib + 75013 [0BC7AD67-671D-31D4-8B88-C317B8379598]: 0x89
+Telegram[423]: BUG in libdispatch client: kevent[mach_recv] monitored resource vanished before the source cancel handler was invoked
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+--- last message repeated 2 times ---
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Spotlight[400]: assertion failed: 17G65: libxpc.dylib + 75013 [0BC7AD67-671D-31D4-8B88-C317B8379598]: 0x89
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.quicklook[797]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+syslogd[39]: ASL Sender Statistics
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+--- last message repeated 1 time ---
+filecoordinationd[381]: BUG in libdispatch client: kevent[mach_recv] monitored resource vanished before the source cancel handler was invoked
+com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.26A5295C-58B3-4C59-ADE6-49E6AC26E5B4[522]): Service exited with abnormal code: 1
+com.apple.xpc.launchd[1] (com.apple.WebKit.WebContent.F2E3C97D-C301-4D9C-9D16-B889B9582DB7[528]): Service exited with abnormal code: 1
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+TeamViewer[477]: TVAutoUpdate:: choose Version:13.2.14327
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+--- last message repeated 2 times ---
+TeamViewer[477]: TranslationRequestHandlerFactory::Create: Current language is 'zh'
+TeamViewer[477]: TranslationRequestHandlerFactory::Create: Chosen path for language selection is '/script/Translations/tl_zh.js' ...
+TeamViewer[477]: FileRequestHandler::Factory::Create: File '/Applications/TeamViewer.app/Contents/Resources/BrowserUI_Chat_TV/script/Translations/tl_zh.js' does not exist (errorcode=system:2)
+TeamViewer[477]: TranslationRequestHandlerFactory::Create: ... couldn't load language file, falling back to default language
+TeamViewer[477]: Chat-UI => Chat: Initializing!
+TeamViewer[477]: Chat-UI => Chat: Init complete!
+TeamViewer[477]: Chat-UI => Proxy.getConversations: Sending request to get the conversations. Type: NotPushed
+TeamViewer[477]: Terminate app
+TeamViewer_Service[54]: TeamViewer_Service received SIGTERM
+TeamViewer_Desktop[480]: TeamViewer_Desktop received SIGTERM
+TeamViewer_Service[54]: ShutdownDynGate
+TeamViewer_Desktop[480]: TVUserSessionSwitchHandler dealloc (NSWorkspaceSession)
+TeamViewer_Desktop[480]: UnRegisterSessionEvents (NSWorkspaceSession)
+TeamViewer_Service[54]: AssignmentTriggerListener::StopListening: Stopped listening for assignment trigger.
+TeamViewer_Service[54]: TeamViewer is going offline!
+TeamViewer_Service[54]: RemoteSessionManager::ClearAllRemoteSessions(): RemoteSession Count: 1
+TeamViewer_Desktop[480]: interprocessbase::SecureNetwork destroyed
+TeamViewer_Service[54]: InterProcessNetwork: Received DisconnectIPC from processID 480 (ProcessType: 4 in Session 501) with reason 0
+TeamViewer_Service[54]: ProcessControlBase[4]::ProcessDisconnected: Process pid 480 in session 501 disconnected
+TeamViewer_Desktop[480]: CTcpProcessConnector::HandleRead(): Socket gracefully closed (PID=54)
+TeamViewer_Desktop[480]: CTcpProcessConnector::CloseConnection(): PID=54
+--- last message repeated 1 time ---
+TeamViewer_Desktop[480]: CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 57: Socket is not connected
+TeamViewer_Desktop[480]: CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 9: Bad file descriptor
+TeamViewer_Service[54]: CTcpProcessConnector::HandleRead(): Socket gracefully closed (PID=480)
+TeamViewer_Service[54]: CTcpProcessConnector::CloseConnection(): PID=480
+TeamViewer_Service[54]: InterProcessNetwork::ProcessDisconnected(): ConnectionClosed session=501 ptype=4
+TeamViewer_Service[54]: CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 57: Socket is not connected
+TeamViewer_Service[54]: RetryHandle::HandleRetry(): Trying resend to 26 failed with error SecureNetworkTransport:4, retrying (2 retries remaining) BCmd: CC=32 CT=1
+--- last message repeated 1 time ---
+TeamViewer[477]: ChatProviderRegistration::UnregisterAccount: unregistering [Type=Account, Id=839990]
+TeamViewer[477]: ChatProviderRegistration::BuildPayloadAndSendProviderCommand: no registration data left, unregistering completely
+TeamViewer[477]: ChatProviderRegistrationManager::ResetProviderRegistration: RegistrationType_Account
+TeamViewer[477]: IncomingChatCommandRegistration::IsTeamViewerOnlineObserver: TeamViewer-Onlinestate changed to offline
+TeamViewer[477]: IncomingChatCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+TeamViewer[477]: InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 2e9e0917-a89d-4f25-93d5-e9a39957e5b0)
+TeamViewer[477]: AccountLoginStateMachine::RegisterForKeepAlive: lost connection
+TeamViewer[477]: DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=679670831 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+TeamViewer_Service[54]: SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: 2e9e0917-a89d-4f25-93d5-e9a39957e5b0
+TeamViewer[477]: Account::UpdateState: KA = 0, active = 1
+TeamViewer_Service[54]: RetryHandle::HandleRetry(): Trying resend to 13 failed with error SecureNetworkTransport:4, retrying (2 retries remaining) BCmd: CC=19 CT=3
+TeamViewer_Service[54]: TVRouterClock Schedule next request in 0 seconds
+TeamViewer_Service[54]: KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection with US-DAL-IBM-R008.teamviewer.com ended
+TeamViewer[477]: FullAccountClient::OnSessionEnded(): Session suspended. PartnerList stays alive.
+TeamViewer_Service[54]: CAcceptServer::HandleAccept: socket closed
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 26 connection: 3331959227 remoteConnection: 0 ], Error: RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 26 connection: 3331959227 remoteConnection: 0 ] Resetting connection due to error RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 1011860917 connection: 0 remoteConnection: 2621792948 ], Error: RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 1011860917 connection: 0 remoteConnection: 2621792948 ] Resetting connection due to error RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkImplementation::ReceivedNewRevocationCheck: Error: Cancel
+TeamViewer_Service[54]: SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 26, connection ID: 3331959227] errorcode: Cancel(3)
+TeamViewer_Service[54]: HandshakeClient::Connect: [remote ID: 13, connection ID: 3331959228, remote connection ID: 0] invalid private key
+TeamViewer_Service[54]: RetryHandle::HandleRetry(): Trying resend to 26 failed with error SecureNetworkTransport:4, retrying (1 retries remaining) BCmd: CC=32 CT=1
+--- last message repeated 1 time ---
+TeamViewer_Service[54]: RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:3, not retrying (1 retries would remain) BCmd: CC=19 CT=3
+TeamViewer_Service[54]: ConfigurationControllerImpl::HandleProviderUnregistrationResponse(): unregister failed with error RCommand:3
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 14 connection: 0 remoteConnection: 0 ], Error: RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 14 connection: 0 remoteConnection: 0 ] Resetting connection due to error RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 14, connection ID: 0] errorcode: Cancel(3)
+TeamViewer_Service[54]: SecureNetworkImplementation::ReceivedNewRevocationCheck: Error: Invalid response
+TeamViewer_Service[54]: HandshakeClient::Connect: [remote ID: 26, connection ID: 3331959229, remote connection ID: 0] invalid private key
+TeamViewer_Service[54]: RetryHandle::HandleRetry(): Trying resend to 26 failed with error SecureNetwork:4, not retrying (0 retries would remain) BCmd: CC=32 CT=1
+--- last message repeated 1 time ---
+TeamViewer[477]: RetrieveHistory::Execute[retrieveHistoryCb]: unexpected system error 4 (Invalid response)
+TeamViewer[477]: ChatRoomHandler::RetrieveHistory[retrieveHistoryCb]: failed with 1
+TeamViewer[477]: ChatMessageContainer::LoadMessages[messagePagingCb]: failed with error code 1
+TeamViewer_Desktop[480]: TeamViewer_Desktop Stop
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+TeamViewer[477]: Account::SetLoginState: new state: 1
+TeamViewer[477]: ManagerHolderStateMachine: Switching from LoggedIn to NotReady_LoginPending
+TeamViewer[477]: ChatManager::ClearNonAccountChat
+TeamViewer[477]: ChatManager::ClearAccountChat: clearPersistently = 1
+TeamViewer[477]: ConversationManager::NotifyUnreadMessageCountChange: 0 messages, 0 conversation(s)
+TeamViewer[477]: FileRequestHandler::Factory::Create: File '/Applications/TeamViewer.app/Contents/Resources/BrowserUI_Chat_TV/conversationf7a7756585354916ad5212c3d1f41010/getChatNotifications.cmd' does not exist (errorcode=system:2)
+TeamViewer[477]: CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ChatRoomHandler::RetrieveHistory] trackee expired, callback was not called
+TeamViewer[477]: CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ChatMessageContainer::LoadMessages] trackee expired, callback was not called
+TeamViewer[477]: CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ChatRoomHandlerBase::LoadMessagesInternal] trackee expired, callback was not called
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 14 connection: 0 remoteConnection: 0 ], Error: RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 14 connection: 0 remoteConnection: 0 ] Resetting connection due to error RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 14, connection ID: 0] errorcode: Cancel(3)
+TeamViewer_Service[54]: SecureNetworkImplementation::ReceivedNewRevocationCheck: Error: Invalid response
+TeamViewer_Service[54]: HandshakeClient::Connect: [remote ID: 13, connection ID: 3331959230, remote connection ID: 0] invalid private key
+TeamViewer_Service[54]: RetryHandle::HandleRetry(): Trying resend to 13 failed with error SecureNetwork:4, not retrying (2 retries would remain) BCmd: CC=19 CT=3
+TeamViewer[477]: ChatProviderRegistration::HandleProviderResponse: registration failed with ProviderRegistrationResult 3
+TeamViewer[477]: ChatProviderRegistration::HandleProviderResponse: retrying provider registration (retry 1 of 5)
+TeamViewer[477]: ChatProviderRegistration::BuildPayloadAndSendProviderCommand: no registration data left, unregistering completely
+TeamViewer[477]: TeamViewer received SIGTERM
+TeamViewer[477]: applicationShouldTerminate
+TeamViewer[477]: applicationWillTerminate
+TeamViewer[477]: TVUserSessionSwitchHandler dealloc (NSWorkspaceSession)
+TeamViewer[477]: UnRegisterSessionEvents (NSWorkspaceSession)
+TeamViewer[477]: ShutDownOnce
+TeamViewer[477]: Chat::Stop: Stopping chat
+TeamViewer[477]: ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+TeamViewer[477]: IncomingChatCommandRegistration::Stop: disconnecting ready state properties
+TeamViewer[477]: ChatManager::Close
+TeamViewer[477]: ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+TeamViewer[477]: ChatManager::ClearAccountChat: clearPersistently = 0
+TeamViewer[477]: ChatManager::ClearNonAccountChat
+TeamViewer[477]: ChatManager::~ChatManager: destroyed
+TeamViewer[477]: IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: destroyed
+TeamViewer[477]: InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 4135cc1e-4848-4712-bd1f-4c005738a16a)
+TeamViewer[477]: VoIP: VoIPCentral: Destructor
+TeamViewer[477]: PListRemoteSettingsProviderRegistration::HandleProviderResponse: CallbackResult = 2
+TeamViewer_Service[54]: SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: 4135cc1e-4848-4712-bd1f-4c005738a16a
+TeamViewer_Service[54]: InterProcessNetwork: Received DisconnectIPC from processID 477 (ProcessType: 2 in Session 501) with reason 1
+TeamViewer[477]: CTcpProcessConnector::HandleRead(): Socket gracefully closed (PID=54)
+TeamViewer_Service[54]: UpdateOnlineState alwaysOnline=1 modifiedOnline=1 otherProcess=0 restart=0
+TeamViewer[477]: CTcpProcessConnector::CloseConnection(): PID=54
+TeamViewer[477]: InterProcessBase::EventFunctionInternal(): IPC-Connection Closed
+TeamViewer[477]: CTcpProcessConnector::CloseConnection(): PID=54
+TeamViewer[477]: CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 57: Socket is not connected
+TeamViewer[477]: CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 9: Bad file descriptor
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 14 connection: 0 remoteConnection: 0 ], Error: RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 14 connection: 0 remoteConnection: 0 ] Resetting connection due to error RCommand (Cancel)
+TeamViewer_Service[54]: SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 14, connection ID: 0] errorcode: Cancel(3)
+TeamViewer_Service[54]: SecureNetworkImplementation::ReceivedNewRevocationCheck: Error: Invalid response
+TeamViewer_Service[54]: HandshakeClient::Connect: [remote ID: 13, connection ID: 3331959231, remote connection ID: 0] invalid private key
+TeamViewer_Service[54]: RetryHandle::HandleRetry(): Trying resend to 13 failed with error SecureNetwork:4, not retrying (2 retries would remain) BCmd: CC=19 CT=3
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.teamviewer.service[54]): Service did not exit 5 seconds after SIGTERM. Sending SIGKILL.
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.teamviewer.teamviewer[477]): Service did not exit 5 seconds after SIGTERM. Sending SIGKILL.
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.valvesoftware.steam.ipctool): This service is defined to be constantly running and is inherently inefficient.
+com.apple.xpc.launchd[1] (com.valvesoftware.steam.ipctool): This key does not do anything: OnDemand
+ipcserver[817]: Valve Steam ipcserver started: 1.04
+com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 0 seconds. Pushing respawn out by 60 seconds.
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+UserEventAgent[353]: BUG in libdispatch client: kevent[mach_recv] monitored resource vanished before the source cancel handler was invoked
+com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Unknown key for array: SteamContentPaths
+com.apple.xpc.launchd[1] (com.valvesoftware.steam.21480[813]): Service exited with abnormal code: 42
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 1 seconds. Pushing respawn out by 59 seconds.
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Unknown key for array: SteamContentPaths
+com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 0 seconds. Pushing respawn out by 60 seconds.
+xpcproxy[835]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+com.apple.xpc.launchd[1] (com.apple.quicklook[842]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+steam_osx[824]: BUG in libdispatch client: kevent[read] monitored resource vanished before the source cancel handler was invoked
+ipcserver[843]: Valve Steam ipcserver started: 1.04
+com.apple.xpc.launchd[1] (com.valvesoftware.steam.21480.6F7196BC-5A21-4C2F-82C5-F798598174D5[824]): Service exited with abnormal code: 42
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Unknown key for array: SteamContentPaths
+com.apple.xpc.launchd[1] (com.valvesoftware.steam.21564.556673E2-07FA-4A9F-B83A-1F411E7BDC70[845]): Service exited with abnormal code: 42
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 1 seconds. Pushing respawn out by 59 seconds.
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Unknown key for array: SteamContentPaths
+com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 0 seconds. Pushing respawn out by 60 seconds.
+xpcproxy[865]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+com.apple.xpc.launchd[1] (com.apple.quicklook[872]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+fud[887]: objc[887]: Class MobileAssetUpdater is implemented in both /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud (0x106859fd0) and /System/Library/AccessoryUpdaterBundles/ApplePowerAccessoryUpdater.bundle/Contents/MacOS/ApplePowerAccessoryUpdater (0x106968a68). One of the two will be used. Which one is undefined.
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.91" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.SystemUIServer.agent
+--- last message repeated 1 time ---
+syslogd[39]: ASL Sender Statistics
+syslogd[39]: ASL Sender Statistics
+systemstats[50]: assertion failed: 17G65: systemstats + 684622 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x7fcf88f07700
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+com.apple.xpc.launchd[1] (com.apple.quicklook[911]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.183 GoogleSoftwareUpdateAgent[932/0x7fff99133380] [lvl=2] -[KSAgentApp(PrivateMethods) setUpLoggerOutputForVerboseMode:] Agent default/global settings: <KSAgentSettings:0x7fdd7b466940 bundleID=com.google.Keystone.Agent lastCheck=2018-09-04 20:38:18 +0000 lastServerCheck=2018-09-04 20:38:02 +0000 lastCheckStart=2018-09-05 17:43:28 +0000 checkInterval=18000.000000 uiDisplayInterval=604800.000000 sleepInterval=1800.000000 jitterInterval=900 maxRunInterval=0.000000 isConsoleUser=1 ticketStorePath=/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore runMode=3 daemonUpdateEngineBrokerServiceName=com.google.Keystone.Daemon.UpdateEngine daemonAdministrationServiceName=com.google.Keystone.Daemon.Administration alwaysPromptForUpdates=0 lastUIDisplayed=(null) alwaysShowStatusItem=0 updateCheckTag=(null) printResults=NO userInitiated=NO>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.197 GoogleSoftwareUpdateAgent[932/0x7fff99133380] [lvl=2] -[KSAgentApp(PrivateMethods) checkForUpdatesUsingArguments:snapshot:error:] Starting update check.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.201 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Starting engine thread
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.243 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] No functional system update engine detected. Only user tickets will be processed.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.260 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Checking with local engine: <KSUpdateEngine:0x7fdd7b483b90
+		ticketStore=<KSPersistentTicketStore:0x7fdd7b469020 store=<KSKeyedPersistentStore:0x7fdd7b47f570
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7fdd7b47f850
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7fdd7b47fc30>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7fdd7b483d90
+			delegate=<KSUpdateEngine:0x7fdd7b483b90>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7fdd7b51be10>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7fdd7b4837d0 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.261 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] +[KSKeystoneTicketRepair updateKeystoneTicketInTicketStore:version:bundlePath:error:] KSKeystoneTicketRepair does not need to update the Keystone ticket.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.262 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) performSelfUpdateWithEngine:error:] Checking for self update with Engine: <KSUpdateEngine:0x7fdd7b483b90
+		ticketStore=<KSPersistentTicketStore:0x7fdd7b469020 store=<KSKeyedPersistentStore:0x7fdd7b47f570
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7fdd7b47f850
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7fdd7b47fc30>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7fdd7b483d90
+			delegate=<KSUpdateEngine:0x7fdd7b483b90>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7fdd7b51be10>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7fdd7b4837d0 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.262 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) performSelfUpdateWithEngine:error:] This process may be killed if self-update is necessary. In such cases, sub-processes may still be running to complete the self-update.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.263 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) updateProductWithProductID:usingEngine:error:] Checking for updates for "com.google.Keystone" using engine <KSUpdateEngine:0x7fdd7b483b90
+		ticketStore=<KSPersistentTicketStore:0x7fdd7b469020 store=<KSKeyedPersistentStore:0x7fdd7b47f570
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7fdd7b47f850
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7fdd7b47fc30>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7fdd7b483d90
+			delegate=<KSUpdateEngine:0x7fdd7b483b90>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7fdd7b51be10>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7fdd7b4837d0 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.292 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateEngine updateProductID:withError:] KSUpdateEngine updating product ID: "com.google.Keystone"
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.311 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSCheckAction performAction] KSCheckAction checking 1 ticket(s).
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.333 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {(
+		<KSTicket:0x7fdd7b703d70
+			productID=com.google.Keystone
+			version=1.2.11.124
+			xc=<KSPathExistenceChecker:0x7fdd7b714160 path=/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle>
+			url=https://tools.google.com/service/update2
+			creationDate=2018-07-09 23:38:57
+			cohort=1:0:
+			cohortName=Everyone
+			ticketVersion=1
+		>
+	)}
+	Using server: <KSOmahaServer:0x7fdd7b404360
+		engine=<KSUpdateEngine:0x7fdd7b483b90>
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.377 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]="EQHXZ8M8AV" and (identifier="com.google.Keystone")'
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.490 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction running KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x7fdd7b4b1410
+		server=<KSOmahaServer:0x7fdd7b404360>
+		url="https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625"
+		fallbackURLs=(
+			http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592
+		)
+		runningFetchers=0
+		tickets=1
+		body=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<request protocol="3.0" version="KeystoneAgent-1.2.11.124" ismachine="0" requestid="{B20B38D5-6A30-4E09-8ADB-9287D091DD33}" dedup="cr" sessionid="{8BD1E28A-F5DF-46F2-AD53-AF64B8AD6425}">
+			    <os platform="mac" version="10.13" arch="x86_64h" sp="10.13.6_x86_64h"></os>
+			    <app appid="com.google.Keystone" version="1.2.11.124" cohort="1:0:" cohortname="Everyone" lang="en-us" installage="57" installdate="4207" brand="GGLG" signed="1">
+			        <ping r="1" rd="4264" a="1" ad="4264" ping_freshness="{A0A548A6-2BA2-4B32-9F3E-4C9656089C09}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			</request>
+		headers={
+			"X-Goog-Update-Interactivity" = bg;
+		}
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.491 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625"
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.501 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 935
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.502 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625"
+ksfetch[935]: 2018-09-05 18:16:17.563 ksfetch[935/0x7fff99133380] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 2284 bytes from stdin.
+ksfetch[935]: 2018-09-05 18:16:17.565 ksfetch[935/0x7fff99133380] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x7fd05061def0> { URL: https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625 }
+ksfetch[935]: 2018-09-05 18:16:17.565 ksfetch[935/0x7fff99133380] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.AtygBQVE58/download
+ksfetch[935]: 2018-09-05 18:16:17.568 ksfetch[935/0x7fff99133380] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x7fd05061def0> { URL: https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625 }) to folder:/tmp/KSOutOfProcessFetcher.AtygBQVE58/download
+ksfetch[935]: 2018-09-05 18:16:17.569 ksfetch[935/0x7fff99133380] [lvl=2] main() Setting up download file handles...
+ksfetch[935]: 2018-09-05 18:16:17.609 ksfetch[935/0x7fff99133380] [lvl=2] -[FetchDelegate fetcher:failedWithError:] Fetcher generated error: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo={NSUnderlyingError=0x7fd05041fda0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625, NSErrorFailingURLKey=https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625, NSErrorFailingURLKey=https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=The Internet connection appears to be offline.}
+ksfetch[935]: 2018-09-05 18:16:17.609 ksfetch[935/0x7fff99133380] [lvl=2] main() ksfetch done fetching.
+ksfetch[935]: 2018-09-05 18:16:17.612 ksfetch[935/0x7fff99133380] [lvl=2] main() Fetcher is exiting.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.614 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:
+	:	<>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.615 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625"
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.616 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateCheckAction(KSServerUpdateRequestDelegate) startFallBackForRequest:] KSUpdateCheckAction running fallback KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x7fdd7b4ac080
+		server=<KSOmahaServer:0x7fdd7b404360>
+		url="http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592"
+		fallbackURLs=( )
+		runningFetchers=0
+		tickets=1
+		body=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<request protocol="3.0" version="KeystoneAgent-1.2.11.124" ismachine="0" requestid="{B20B38D5-6A30-4E09-8ADB-9287D091DD33}" dedup="cr" sessionid="{8BD1E28A-F5DF-46F2-AD53-AF64B8AD6425}">
+			    <os platform="mac" version="10.13" arch="x86_64h" sp="10.13.6_x86_64h"></os>
+			    <app appid="com.google.Keystone" version="1.2.11.124" cohort="1:0:" cohortname="Everyone" lang="en-us" installage="57" installdate="4207" brand="GGLG" signed="1">
+			        <ping r="1" rd="4264" a="1" ad="4264" ping_freshness="{A0A548A6-2BA2-4B32-9F3E-4C9656089C09}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			</request>
+		headers={
+			"X-Goog-Update-Interactivity" = bg;
+		}
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.616 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592"
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.617 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 936
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.618 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592"
+ksfetch[936]: 2018-09-05 18:16:17.662 ksfetch[936/0x7fff99133380] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 2283 bytes from stdin.
+ksfetch[936]: 2018-09-05 18:16:17.664 ksfetch[936/0x7fff99133380] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x7fb442600560> { URL: http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592 }
+ksfetch[936]: 2018-09-05 18:16:17.664 ksfetch[936/0x7fff99133380] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.srJQjL1xAF/download
+ksfetch[936]: 2018-09-05 18:16:17.665 ksfetch[936/0x7fff99133380] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x7fb442600560> { URL: http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592 }) to folder:/tmp/KSOutOfProcessFetcher.srJQjL1xAF/download
+ksfetch[936]: 2018-09-05 18:16:17.666 ksfetch[936/0x7fff99133380] [lvl=2] main() Setting up download file handles...
+ksfetch[936]: 2018-09-05 18:16:17.692 ksfetch[936/0x7fff99133380] [lvl=2] -[FetchDelegate fetcher:failedWithError:] Fetcher generated error: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo={NSUnderlyingError=0x7fb44240e190 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=The Internet connection appears to be offline.}
+ksfetch[936]: 2018-09-05 18:16:17.693 ksfetch[936/0x7fff99133380] [lvl=2] main() ksfetch done fetching.
+ksfetch[936]: 2018-09-05 18:16:17.696 ksfetch[936/0x7fff99133380] [lvl=2] main() Fetcher is exiting.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.697 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:
+	:	<>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.698 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592"
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.698 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateCheckAction(PrivateMethods) finishAction] KSUpdateCheckAction found updates: {( )}
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.707 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.708 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSMultiUpdateAction performAction] KSSilentUpdateAction had no updates to apply.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.709 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.709 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=1
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.710 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateEngine(PrivateMethods) updateFinish] KSUpdateEngine update processing complete.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.711 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) updateProductWithProductID:usingEngine:error:] Done checking for updates for '"com.google.Keystone"' using engine <KSUpdateEngine:0x7fdd7b483b90
+		ticketStore=<KSPersistentTicketStore:0x7fdd7b469020 store=<KSKeyedPersistentStore:0x7fdd7b47f570
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7fdd7b47f850
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7fdd7b47fc30>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7fdd7b624790
+			delegate=<KSUpdateEngine:0x7fdd7b483b90>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7fdd7b51be10>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7fdd7b4837d0 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.711 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) performSelfUpdateWithEngine:error:] Finished self update check.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.712 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] About to run checks for any other apps.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.712 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) updateProductWithProductID:usingEngine:error:] Checking for updates for "All Products" using engine <KSUpdateEngine:0x7fdd7b483b90
+		ticketStore=<KSPersistentTicketStore:0x7fdd7b469020 store=<KSKeyedPersistentStore:0x7fdd7b47f570
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7fdd7b47f850
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7fdd7b47fc30>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7fdd7b624790
+			delegate=<KSUpdateEngine:0x7fdd7b483b90>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=(null)
+		serverInfoStore=<KSServerPrivateInfoStore:0x7fdd7b4837d0 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.713 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:withError:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.721 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSCheckAction performAction] KSCheckAction checking 2 ticket(s).
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.728 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {(
+		<KSTicket:0x7fdd7b7261a0
+			productID=com.google.android.mtpviewer
+			version=1.0.50.2266
+			xc=<KSPathExistenceChecker:0x7fdd7b70da10 path=/Applications/Android File Transfer.app>
+			serverType=Omaha
+			url=https://tools.google.com/service/update2
+			creationDate=2018-09-03 00:36:35
+			ticketVersion=1
+		>,
+		<KSTicket:0x7fdd7b727230
+			productID=com.google.Chrome
+			version=68.0.3440.106
+			xc=<KSPathExistenceChecker:0x7fdd7b7272d0 path=/Applications/Google Chrome.app>
+			serverType=Omaha
+			url=https://tools.google.com/service/update2
+			creationDate=2018-07-09 23:38:57
+			tagPath=/Applications/Google Chrome.app/Contents/Info.plist
+			tagKey=KSChannelID
+			brandPath=/Users/jinhai/Library/Google/Google Chrome Brand.plist
+			brandKey=KSBrandID
+			versionPath=/Applications/Google Chrome.app/Contents/Info.plist
+			versionKey=KSVersion
+			cohort=1:1y5:pe9@0.1
+			cohortName=Stable
+			ticketVersion=1
+		>
+	)}
+	Using server: <KSOmahaServer:0x7fdd7b70da20
+		engine=<KSUpdateEngine:0x7fdd7b483b90>
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.740 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Applications/Android File Transfer.app' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]="EQHXZ8M8AV" and (identifier="com.google.android.mtpviewer")'
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:17.906 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Applications/Google Chrome.app' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]="EQHXZ8M8AV" and (identifier="com.google.Chrome")'
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.256 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction running KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x7fdd7b4ba020
+		server=<KSOmahaServer:0x7fdd7b70da20>
+		url="https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192"
+		fallbackURLs=(
+			http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825
+		)
+		runningFetchers=0
+		tickets=2
+		body=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<request protocol="3.0" version="KeystoneAgent-1.2.11.124" ismachine="0" requestid="{81AF7D65-8E55-411E-B3D8-0442E006F10D}" dedup="cr" sessionid="{8BD1E28A-F5DF-46F2-AD53-AF64B8AD6425}">
+			    <os platform="mac" version="10.13" arch="x86_64h" sp="10.13.6_x86_64h"></os>
+			    <app appid="com.google.android.mtpviewer" version="1.0.50.2266" lang="en-us" installage="2" brand="GGLG" signed="1">
+			        <ping r="1" rd="4264" ping_freshness="{25FB5D9F-35A6-4313-BC7B-5C29B91648CD}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			    <app appid="com.google.Chrome" version="68.0.3440.106" cohort="1:1y5:pe9@0.1" cohortname="Stable" lang="en-us" installage="57" installdate="4207" brand="GGRO" signed="1">
+			        <ping r="1" rd="4264" ping_freshness="{27D1E29F-6E50-406C-9B5F-AE76DB735A6C}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			</request>
+		headers={
+			"X-Goog-Update-Interactivity" = bg;
+		}
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.257 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192"
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.260 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 937
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.261 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192"
+ksfetch[937]: 2018-09-05 18:16:19.308 ksfetch[937/0x7fff99133380] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 2538 bytes from stdin.
+ksfetch[937]: 2018-09-05 18:16:19.310 ksfetch[937/0x7fff99133380] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x7fd3c9402890> { URL: https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192 }
+ksfetch[937]: 2018-09-05 18:16:19.311 ksfetch[937/0x7fff99133380] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.ML4uy8IAwc/download
+ksfetch[937]: 2018-09-05 18:16:19.311 ksfetch[937/0x7fff99133380] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x7fd3c9402890> { URL: https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192 }) to folder:/tmp/KSOutOfProcessFetcher.ML4uy8IAwc/download
+ksfetch[937]: 2018-09-05 18:16:19.312 ksfetch[937/0x7fff99133380] [lvl=2] main() Setting up download file handles...
+ksfetch[937]: 2018-09-05 18:16:19.338 ksfetch[937/0x7fff99133380] [lvl=2] -[FetchDelegate fetcher:failedWithError:] Fetcher generated error: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo={NSUnderlyingError=0x7fd3c94162a0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192, NSErrorFailingURLKey=https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192, NSErrorFailingURLKey=https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=The Internet connection appears to be offline.}
+ksfetch[937]: 2018-09-05 18:16:19.338 ksfetch[937/0x7fff99133380] [lvl=2] main() ksfetch done fetching.
+ksfetch[937]: 2018-09-05 18:16:19.341 ksfetch[937/0x7fff99133380] [lvl=2] main() Fetcher is exiting.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.343 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:
+	:	<>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.343 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "https://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1451248192"
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.344 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateCheckAction(KSServerUpdateRequestDelegate) startFallBackForRequest:] KSUpdateCheckAction running fallback KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x7fdd7b4bbac0
+		server=<KSOmahaServer:0x7fdd7b70da20>
+		url="http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825"
+		fallbackURLs=( )
+		runningFetchers=0
+		tickets=2
+		body=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<request protocol="3.0" version="KeystoneAgent-1.2.11.124" ismachine="0" requestid="{81AF7D65-8E55-411E-B3D8-0442E006F10D}" dedup="cr" sessionid="{8BD1E28A-F5DF-46F2-AD53-AF64B8AD6425}">
+			    <os platform="mac" version="10.13" arch="x86_64h" sp="10.13.6_x86_64h"></os>
+			    <app appid="com.google.android.mtpviewer" version="1.0.50.2266" lang="en-us" installage="2" brand="GGLG" signed="1">
+			        <ping r="1" rd="4264" ping_freshness="{25FB5D9F-35A6-4313-BC7B-5C29B91648CD}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			    <app appid="com.google.Chrome" version="68.0.3440.106" cohort="1:1y5:pe9@0.1" cohortname="Stable" lang="en-us" installage="57" installdate="4207" brand="GGRO" signed="1">
+			        <ping r="1" rd="4264" ping_freshness="{27D1E29F-6E50-406C-9B5F-AE76DB735A6C}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			</request>
+		headers={
+			"X-Goog-Update-Interactivity" = bg;
+		}
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.345 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825"
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.346 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 938
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.346 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825"
+ksfetch[938]: 2018-09-05 18:16:19.388 ksfetch[938/0x7fff99133380] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 2537 bytes from stdin.
+ksfetch[938]: 2018-09-05 18:16:19.391 ksfetch[938/0x7fff99133380] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x7fab9bc2e710> { URL: http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825 }
+ksfetch[938]: 2018-09-05 18:16:19.391 ksfetch[938/0x7fff99133380] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.yAKmmnengL/download
+ksfetch[938]: 2018-09-05 18:16:19.392 ksfetch[938/0x7fff99133380] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x7fab9bc2e710> { URL: http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825 }) to folder:/tmp/KSOutOfProcessFetcher.yAKmmnengL/download
+ksfetch[938]: 2018-09-05 18:16:19.392 ksfetch[938/0x7fff99133380] [lvl=2] main() Setting up download file handles...
+ksfetch[938]: 2018-09-05 18:16:19.420 ksfetch[938/0x7fff99133380] [lvl=2] -[FetchDelegate fetcher:failedWithError:] Fetcher generated error: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo={NSUnderlyingError=0x7fab9bd0cc80 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=The Internet connection appears to be offline.}
+ksfetch[938]: 2018-09-05 18:16:19.421 ksfetch[938/0x7fff99133380] [lvl=2] main() ksfetch done fetching.
+ksfetch[938]: 2018-09-05 18:16:19.424 ksfetch[938/0x7fff99133380] [lvl=2] main() Fetcher is exiting.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.426 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:
+	:	<>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.426 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825"
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.427 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateCheckAction(PrivateMethods) finishAction] KSUpdateCheckAction found updates: {( )}
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.435 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.436 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSMultiUpdateAction performAction] KSSilentUpdateAction had no updates to apply.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.437 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.437 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=1
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.437 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSUpdateEngine(PrivateMethods) updateFinish] KSUpdateEngine update processing complete.
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.438 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) updateProductWithProductID:usingEngine:error:] Done checking for updates for '"All Products"' using engine <KSUpdateEngine:0x7fdd7b483b90
+		ticketStore=<KSPersistentTicketStore:0x7fdd7b469020 store=<KSKeyedPersistentStore:0x7fdd7b47f570
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7fdd7b47f850
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7fdd7b47fc30>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7fdd7b5cbe00
+			delegate=<KSUpdateEngine:0x7fdd7b483b90>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7fdd7b51be10>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7fdd7b4837d0 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.477 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSAgentUploader fetcher:failedWithError:] Failed to upload stats to <NSMutableURLRequest: 0x7fdd7b5d9310> { URL: https://tools.google.com/service/update2 } with error Error Domain=NSURLErrorDomain Code=-1009 "似乎已断开与互联网的连接。" UserInfo={NSUnderlyingError=0x7fdd7b72bad0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "似乎已断开与互联网的连接。" UserInfo={NSErrorFailingURLStringKey=https://tools.google.com/service/update2, NSErrorFailingURLKey=https://tools.google.com/service/update2, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=似乎已断开与互联网的连接。}}, NSErrorFailingURLStringKey=https://tools.google.com/service/update2, NSErrorFailingURLKey=https://tools.google.com/service/update2, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=似乎已断开与互联网的连接。}
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.478 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSAgentApp(PrivateMethods) uploadStats:forInvocation:error:] Failed to upload stats <KSStatsCollection:0x7fdd7b468240 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Stats/Keystone.stats", count=6, stats={
+	    checks = 4;
+	    failedchecks = 4;
+	    tickets = 2;
+	    usertickets = 3;
+	    validtickets = 2;
+	    validusertickets = 3;
+	}>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.479 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Failed to upload Keystone statistics: (null)
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:20.548 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Finished with engine thread
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:20.554 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Encountered errors during update: {
+		"com.google.Keystone" = {(
+			<KSUpdateError:0x7fdd7b622ee0
+				domain="com.google.UpdateEngine.CoreErrorDomain"
+				code=702
+				userInfo={
+					function = "-[KSServerUpdateRequest(PrivateMethods) fetcher:failedWithError:]";
+					NSURL = http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592;
+					date = 2018-09-05 22:16:17 +0000;
+					productids = {(
+						"com.google.Keystone"
+					)};
+					filename = "KSServerUpdateRequest.m";
+					line = 381;
+					NSLocalizedDescription = "KSServerUpdateRequest fetch failed.";
+					NSUnderlyingError = <KSError:0x7fdd7b726fc0
+						domain=NSURLErrorDomain
+						code=-1009
+						userInfo={
+							NSLocalizedDescription = "The Internet connection appears to be offline.";
+							NSErrorFailingURLStringKey = "http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592";
+							NSErrorFailingURLKey = http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592;
+							"_kCFStreamErrorDomainKey" = 1;
+							"_kCFStreamErrorCodeKey" = 50;
+							NSUnderlyingError = Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:2681893592, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.};
+						}
+					>;
+				}
+			>
+		)};
+		"com.google.android.mtpviewer" = {(
+			<KSUpdateError:0x7fdd7b5c3460
+				domain="com.google.UpdateEngine.CoreErrorDomain"
+				code=702
+				userInfo={
+					function = "-[KSServerUpdateRequest(PrivateMethods) fetcher:failedWithError:]";
+					NSURL = http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825;
+					date = 2018-09-05 22:16:19 +0000;
+					productids = {(
+						"com.google.android.mtpviewer",
+						"com.google.Chrome"
+					)};
+					filename = "KSServerUpdateRequest.m";
+					line = 381;
+					NSLocalizedDescription = "KSServerUpdateRequest fetch failed.";
+					NSUnderlyingError = <KSError:0x7fdd7b729af0
+						domain=NSURLErrorDomain
+						code=-1009
+						userInfo={
+							NSLocalizedDescription = "The Internet connection appears to be offline.";
+							NSErrorFailingURLStringKey = "http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825";
+							NSErrorFailingURLKey = http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825;
+							"_kCFStreamErrorDomainKey" = 1;
+							"_kCFStreamErrorCodeKey" = 50;
+							NSUnderlyingError = Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.};
+						}
+					>;
+				}
+			>
+		)};
+		"com.google.Chrome" = {(
+			<KSUpdateError:0x7fdd7b5c3460
+				domain="com.google.UpdateEngine.CoreErrorDomain"
+				code=702
+				userInfo={
+					function = "-[KSServerUpdateRequest(PrivateMethods) fetcher:failedWithError:]";
+					NSURL = http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825;
+					date = 2018-09-05 22:16:19 +0000;
+					productids = {(
+						"com.google.android.mtpviewer",
+						"com.google.Chrome"
+					)};
+					filename = "KSServerUpdateRequest.m";
+					line = 381;
+					NSLocalizedDescription = "KSServerUpdateRequest fetch failed.";
+					NSUnderlyingError = <KSError:0x7fdd7b729af0
+						domain=NSURLErrorDomain
+						code=-1009
+						userInfo={
+							NSLocalizedDescription = "The Internet connection appears to be offline.";
+							NSErrorFailingURLStringKey = "http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825";
+							NSErrorFailingURLKey = http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825;
+							"_kCFStreamErrorDomainKey" = 1;
+							"_kCFStreamErrorCodeKey" = 50;
+							NSUnderlyingError = Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.};
+						}
+					>;
+				}
+			>
+		)};
+	}
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:20.555 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSAgentApp(PrivateMethods) setUpLoggerOutputForVerboseMode:] Agent default/global settings: <KSAgentSettings:0x7fdd7b466940 bundleID=com.google.Keystone.Agent lastCheck=2018-09-04 20:38:18 +0000 lastServerCheck=2018-09-04 20:38:02 +0000 lastCheckStart=2018-09-05 22:16:17 +0000 checkInterval=18000.000000 uiDisplayInterval=604800.000000 sleepInterval=1800.000000 jitterInterval=900 maxRunInterval=0.000000 isConsoleUser=1 ticketStorePath=/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore runMode=3 daemonUpdateEngineBrokerServiceName=com.google.Keystone.Daemon.UpdateEngine daemonAdministrationServiceName=com.google.Keystone.Daemon.Administration alwaysPromptForUpdates=0 lastUIDisplayed=(null) alwaysShowStatusItem=0 updateCheckTag=(null) printResults=NO userInitiated=NO>
+GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:20.860 GoogleSoftwareUpdateAgent[932/0x7fff99133380] [lvl=2] -[KSAgentApp(PrivateMethods) checkForUpdatesUsingArguments:snapshot:error:] Finished update check. Result: Failure.
+com.apple.xpc.launchd[1] (com.google.keystone.user.agent[932]): Service exited with abnormal code: 1
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.quicklook[940]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+syslogd[39]: ASL Sender Statistics
+com.apple.xpc.launchd[1] (com.apple.quicklook[941]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+com.apple.xpc.launchd[1] (com.apple.quicklook[944]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+syslogd[39]: ASL Sender Statistics
+--- last message repeated 1 time ---
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.quicklook[992]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+syslogd[39]: ASL Sender Statistics
+login[995]: USER_PROCESS: 995 ttys001
+com.apple.xpc.launchd[1] (com.apple.quicklook[1017]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+login[1018]: USER_PROCESS: 1018 ttys002
+com.apple.xpc.launchd[1] (com.apple.quicklook[1042]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+syslogd[39]: ASL Sender Statistics
+com.apple.xpc.launchd[1] (com.apple.quicklook[1043]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.quicklook[1175]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+--- last message repeated 2 times ---
+com.apple.xpc.launchd[1] (com.apple.quicklook.satellite.A1200258-900F-4F29-95CA-54146E6D3CB9[1174]): Service did not exit 5 seconds after SIGTERM. Sending SIGKILL.
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.F769DC91-A7AD-40BF-9DF2-32EEA91A9F05[1179]): Service exited with abnormal code: 1
+login[1239]: USER_PROCESS: 1239 ttys003
+syslogd[39]: ASL Sender Statistics
+login[1018]: DEAD_PROCESS: 1018 ttys002
+login[995]: DEAD_PROCESS: 995 ttys001
+login[1239]: DEAD_PROCESS: 1239 ttys003
+login[1273]: USER_PROCESS: 1273 ttys001
+login[1273]: DEAD_PROCESS: 1273 ttys001
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.quicklook[1337]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1339, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1340, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1341, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1342, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+syslogd[39]: ASL Sender Statistics
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.quicklook[1351]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.306 GoogleSoftwareUpdateAgent[1353/0x7fff99133380] [lvl=2] -[KSAgentApp(PrivateMethods) setUpLoggerOutputForVerboseMode:] Agent default/global settings: <KSAgentSettings:0x7ffeb6448f40 bundleID=com.google.Keystone.Agent lastCheck=2018-09-04 20:38:18 +0000 lastServerCheck=2018-09-04 20:38:02 +0000 lastCheckStart=2018-09-05 22:16:17 +0000 checkInterval=18000.000000 uiDisplayInterval=604800.000000 sleepInterval=1800.000000 jitterInterval=900 maxRunInterval=0.000000 isConsoleUser=1 ticketStorePath=/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore runMode=3 daemonUpdateEngineBrokerServiceName=com.google.Keystone.Daemon.UpdateEngine daemonAdministrationServiceName=com.google.Keystone.Daemon.Administration alwaysPromptForUpdates=0 lastUIDisplayed=(null) alwaysShowStatusItem=0 updateCheckTag=(null) printResults=NO userInitiated=NO>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.319 GoogleSoftwareUpdateAgent[1353/0x7fff99133380] [lvl=2] -[KSAgentApp(PrivateMethods) checkForUpdatesUsingArguments:snapshot:error:] Starting update check.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.322 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Starting engine thread
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.362 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] No functional system update engine detected. Only user tickets will be processed.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.385 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Checking with local engine: <KSUpdateEngine:0x7ffeb6461710
+		ticketStore=<KSPersistentTicketStore:0x7ffeb6432a70 store=<KSKeyedPersistentStore:0x7ffeb6459200
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7ffeb662f030
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7ffeb662fea0>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7ffeb6461910
+			delegate=<KSUpdateEngine:0x7ffeb6461710>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7ffeb6459b90>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7ffeb6461020 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.387 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] +[KSKeystoneTicketRepair updateKeystoneTicketInTicketStore:version:bundlePath:error:] KSKeystoneTicketRepair does not need to update the Keystone ticket.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.388 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) performSelfUpdateWithEngine:error:] Checking for self update with Engine: <KSUpdateEngine:0x7ffeb6461710
+		ticketStore=<KSPersistentTicketStore:0x7ffeb6432a70 store=<KSKeyedPersistentStore:0x7ffeb6459200
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7ffeb662f030
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7ffeb662fea0>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7ffeb6461910
+			delegate=<KSUpdateEngine:0x7ffeb6461710>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7ffeb6459b90>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7ffeb6461020 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.388 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) performSelfUpdateWithEngine:error:] This process may be killed if self-update is necessary. In such cases, sub-processes may still be running to complete the self-update.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.389 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) updateProductWithProductID:usingEngine:error:] Checking for updates for "com.google.Keystone" using engine <KSUpdateEngine:0x7ffeb6461710
+		ticketStore=<KSPersistentTicketStore:0x7ffeb6432a70 store=<KSKeyedPersistentStore:0x7ffeb6459200
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7ffeb662f030
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7ffeb662fea0>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7ffeb6461910
+			delegate=<KSUpdateEngine:0x7ffeb6461710>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7ffeb6459b90>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7ffeb6461020 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.409 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateEngine updateProductID:withError:] KSUpdateEngine updating product ID: "com.google.Keystone"
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.424 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSCheckAction performAction] KSCheckAction checking 1 ticket(s).
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.437 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {(
+		<KSTicket:0x7ffeb6720580
+			productID=com.google.Keystone
+			version=1.2.11.124
+			xc=<KSPathExistenceChecker:0x7ffeb67209f0 path=/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle>
+			url=https://tools.google.com/service/update2
+			creationDate=2018-07-09 23:38:57
+			cohort=1:0:
+			cohortName=Everyone
+			ticketVersion=1
+		>
+	)}
+	Using server: <KSOmahaServer:0x7ffeb6404340
+		engine=<KSUpdateEngine:0x7ffeb6461710>
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.471 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]="EQHXZ8M8AV" and (identifier="com.google.Keystone")'
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.575 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction running KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x7ffeb885abf0
+		server=<KSOmahaServer:0x7ffeb6404340>
+		url="https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304"
+		fallbackURLs=(
+			http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618
+		)
+		runningFetchers=0
+		tickets=1
+		body=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<request protocol="3.0" version="KeystoneAgent-1.2.11.124" ismachine="0" requestid="{B20B38D5-6A30-4E09-8ADB-9287D091DD33}" dedup="cr" sessionid="{0A287875-4508-4358-A878-9C4694942B67}">
+			    <os platform="mac" version="10.13" arch="x86_64h" sp="10.13.6_x86_64h"></os>
+			    <app appid="com.google.Keystone" version="1.2.11.124" cohort="1:0:" cohortname="Everyone" lang="en-us" installage="57" installdate="4207" brand="GGLG" signed="1">
+			        <ping r="1" rd="4264" a="1" ad="4264" ping_freshness="{A0A548A6-2BA2-4B32-9F3E-4C9656089C09}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			</request>
+		headers={
+			"X-Goog-Update-Interactivity" = bg;
+		}
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.576 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304"
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.577 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 1356
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.578 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304"
+ksfetch[1356]: 2018-09-05 19:16:44.637 ksfetch[1356/0x7fff99133380] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 2284 bytes from stdin.
+ksfetch[1356]: 2018-09-05 19:16:44.640 ksfetch[1356/0x7fff99133380] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x7fa1e751a510> { URL: https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304 }
+ksfetch[1356]: 2018-09-05 19:16:44.640 ksfetch[1356/0x7fff99133380] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.va1RlGkLCC/download
+ksfetch[1356]: 2018-09-05 19:16:44.643 ksfetch[1356/0x7fff99133380] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x7fa1e751a510> { URL: https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304 }) to folder:/tmp/KSOutOfProcessFetcher.va1RlGkLCC/download
+ksfetch[1356]: 2018-09-05 19:16:44.643 ksfetch[1356/0x7fff99133380] [lvl=2] main() Setting up download file handles...
+ksfetch[1356]: 2018-09-05 19:16:44.706 ksfetch[1356/0x7fff99133380] [lvl=2] -[FetchDelegate fetcher:failedWithError:] Fetcher generated error: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo={NSUnderlyingError=0x7fa1e761b030 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304, NSErrorFailingURLKey=https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304, NSErrorFailingURLKey=https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=The Internet connection appears to be offline.}
+ksfetch[1356]: 2018-09-05 19:16:44.706 ksfetch[1356/0x7fff99133380] [lvl=2] main() ksfetch done fetching.
+ksfetch[1356]: 2018-09-05 19:16:44.710 ksfetch[1356/0x7fff99133380] [lvl=2] main() Fetcher is exiting.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.712 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:
+	:	<>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.712 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304"
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.713 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateCheckAction(KSServerUpdateRequestDelegate) startFallBackForRequest:] KSUpdateCheckAction running fallback KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x7ffeb8869940
+		server=<KSOmahaServer:0x7ffeb6404340>
+		url="http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618"
+		fallbackURLs=( )
+		runningFetchers=0
+		tickets=1
+		body=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<request protocol="3.0" version="KeystoneAgent-1.2.11.124" ismachine="0" requestid="{B20B38D5-6A30-4E09-8ADB-9287D091DD33}" dedup="cr" sessionid="{0A287875-4508-4358-A878-9C4694942B67}">
+			    <os platform="mac" version="10.13" arch="x86_64h" sp="10.13.6_x86_64h"></os>
+			    <app appid="com.google.Keystone" version="1.2.11.124" cohort="1:0:" cohortname="Everyone" lang="en-us" installage="57" installdate="4207" brand="GGLG" signed="1">
+			        <ping r="1" rd="4264" a="1" ad="4264" ping_freshness="{A0A548A6-2BA2-4B32-9F3E-4C9656089C09}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			</request>
+		headers={
+			"X-Goog-Update-Interactivity" = bg;
+		}
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.714 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618"
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.715 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 1357
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.716 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618"
+ksfetch[1357]: 2018-09-05 19:16:44.764 ksfetch[1357/0x7fff99133380] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 2283 bytes from stdin.
+ksfetch[1357]: 2018-09-05 19:16:44.766 ksfetch[1357/0x7fff99133380] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x7fc4fc60d7f0> { URL: http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618 }
+ksfetch[1357]: 2018-09-05 19:16:44.766 ksfetch[1357/0x7fff99133380] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.an3PKSBKkX/download
+ksfetch[1357]: 2018-09-05 19:16:44.767 ksfetch[1357/0x7fff99133380] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x7fc4fc60d7f0> { URL: http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618 }) to folder:/tmp/KSOutOfProcessFetcher.an3PKSBKkX/download
+ksfetch[1357]: 2018-09-05 19:16:44.768 ksfetch[1357/0x7fff99133380] [lvl=2] main() Setting up download file handles...
+ksfetch[1357]: 2018-09-05 19:16:44.794 ksfetch[1357/0x7fff99133380] [lvl=2] -[FetchDelegate fetcher:failedWithError:] Fetcher generated error: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo={NSUnderlyingError=0x7fc4fc53b000 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=The Internet connection appears to be offline.}
+ksfetch[1357]: 2018-09-05 19:16:44.794 ksfetch[1357/0x7fff99133380] [lvl=2] main() ksfetch done fetching.
+ksfetch[1357]: 2018-09-05 19:16:44.797 ksfetch[1357/0x7fff99133380] [lvl=2] main() Fetcher is exiting.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.800 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:
+	:	<>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.800 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618"
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.801 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateCheckAction(PrivateMethods) finishAction] KSUpdateCheckAction found updates: {( )}
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.810 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.811 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSMultiUpdateAction performAction] KSSilentUpdateAction had no updates to apply.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.811 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.812 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=1
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.812 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateEngine(PrivateMethods) updateFinish] KSUpdateEngine update processing complete.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.813 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) updateProductWithProductID:usingEngine:error:] Done checking for updates for '"com.google.Keystone"' using engine <KSUpdateEngine:0x7ffeb6461710
+		ticketStore=<KSPersistentTicketStore:0x7ffeb6432a70 store=<KSKeyedPersistentStore:0x7ffeb6459200
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7ffeb662f030
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7ffeb662fea0>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7ffeb6523b20
+			delegate=<KSUpdateEngine:0x7ffeb6461710>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7ffeb6459b90>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7ffeb6461020 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.813 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) performSelfUpdateWithEngine:error:] Finished self update check.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.814 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] About to run checks for any other apps.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.814 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) updateProductWithProductID:usingEngine:error:] Checking for updates for "All Products" using engine <KSUpdateEngine:0x7ffeb6461710
+		ticketStore=<KSPersistentTicketStore:0x7ffeb6432a70 store=<KSKeyedPersistentStore:0x7ffeb6459200
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7ffeb662f030
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7ffeb662fea0>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7ffeb6523b20
+			delegate=<KSUpdateEngine:0x7ffeb6461710>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=(null)
+		serverInfoStore=<KSServerPrivateInfoStore:0x7ffeb6461020 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.815 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:withError:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.823 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSCheckAction performAction] KSCheckAction checking 2 ticket(s).
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.831 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {(
+		<KSTicket:0x7ffeb65254b0
+			productID=com.google.android.mtpviewer
+			version=1.0.50.2266
+			xc=<KSPathExistenceChecker:0x7ffeb651a1a0 path=/Applications/Android File Transfer.app>
+			serverType=Omaha
+			url=https://tools.google.com/service/update2
+			creationDate=2018-09-03 00:36:35
+			ticketVersion=1
+		>,
+		<KSTicket:0x7ffeb6524d20
+			productID=com.google.Chrome
+			version=68.0.3440.106
+			xc=<KSPathExistenceChecker:0x7ffeb6525410 path=/Applications/Google Chrome.app>
+			serverType=Omaha
+			url=https://tools.google.com/service/update2
+			creationDate=2018-07-09 23:38:57
+			tagPath=/Applications/Google Chrome.app/Contents/Info.plist
+			tagKey=KSChannelID
+			brandPath=/Users/jinhai/Library/Google/Google Chrome Brand.plist
+			brandKey=KSBrandID
+			versionPath=/Applications/Google Chrome.app/Contents/Info.plist
+			versionKey=KSVersion
+			cohort=1:1y5:pe9@0.1
+			cohortName=Stable
+			ticketVersion=1
+		>
+	)}
+	Using server: <KSOmahaServer:0x7ffeb882e3f0
+		engine=<KSUpdateEngine:0x7ffeb6461710>
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.843 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Applications/Android File Transfer.app' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]="EQHXZ8M8AV" and (identifier="com.google.android.mtpviewer")'
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:45.005 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Applications/Google Chrome.app' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]="EQHXZ8M8AV" and (identifier="com.google.Chrome")'
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.427 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction running KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x7ffeb6650880
+		server=<KSOmahaServer:0x7ffeb882e3f0>
+		url="https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806"
+		fallbackURLs=(
+			http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070
+		)
+		runningFetchers=0
+		tickets=2
+		body=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<request protocol="3.0" version="KeystoneAgent-1.2.11.124" ismachine="0" requestid="{81AF7D65-8E55-411E-B3D8-0442E006F10D}" dedup="cr" sessionid="{0A287875-4508-4358-A878-9C4694942B67}">
+			    <os platform="mac" version="10.13" arch="x86_64h" sp="10.13.6_x86_64h"></os>
+			    <app appid="com.google.android.mtpviewer" version="1.0.50.2266" lang="en-us" installage="2" brand="GGLG" signed="1">
+			        <ping r="1" rd="4264" ping_freshness="{25FB5D9F-35A6-4313-BC7B-5C29B91648CD}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			    <app appid="com.google.Chrome" version="68.0.3440.106" cohort="1:1y5:pe9@0.1" cohortname="Stable" lang="en-us" installage="57" installdate="4207" brand="GGRO" signed="1">
+			        <ping r="1" rd="4264" ping_freshness="{27D1E29F-6E50-406C-9B5F-AE76DB735A6C}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			</request>
+		headers={
+			"X-Goog-Update-Interactivity" = bg;
+		}
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.429 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806"
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.435 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 1358
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.436 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806"
+ksfetch[1358]: 2018-09-05 19:16:46.611 ksfetch[1358/0x7fff99133380] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 2538 bytes from stdin.
+ksfetch[1358]: 2018-09-05 19:16:46.615 ksfetch[1358/0x7fff99133380] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x7fa7a1e08f30> { URL: https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806 }
+ksfetch[1358]: 2018-09-05 19:16:46.616 ksfetch[1358/0x7fff99133380] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.xBj0RmcSos/download
+ksfetch[1358]: 2018-09-05 19:16:46.617 ksfetch[1358/0x7fff99133380] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x7fa7a1e08f30> { URL: https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806 }) to folder:/tmp/KSOutOfProcessFetcher.xBj0RmcSos/download
+ksfetch[1358]: 2018-09-05 19:16:46.617 ksfetch[1358/0x7fff99133380] [lvl=2] main() Setting up download file handles...
+ksfetch[1358]: 2018-09-05 19:16:46.684 ksfetch[1358/0x7fff99133380] [lvl=2] -[FetchDelegate fetcher:failedWithError:] Fetcher generated error: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo={NSUnderlyingError=0x7fa7a1c11900 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806, NSErrorFailingURLKey=https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806, NSErrorFailingURLKey=https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=The Internet connection appears to be offline.}
+ksfetch[1358]: 2018-09-05 19:16:46.684 ksfetch[1358/0x7fff99133380] [lvl=2] main() ksfetch done fetching.
+ksfetch[1358]: 2018-09-05 19:16:46.696 ksfetch[1358/0x7fff99133380] [lvl=2] main() Fetcher is exiting.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.699 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "https://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2650267806"
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.701 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateCheckAction(KSServerUpdateRequestDelegate) startFallBackForRequest:] KSUpdateCheckAction running fallback KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x7ffeb6658890
+		server=<KSOmahaServer:0x7ffeb882e3f0>
+		url="http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070"
+		fallbackURLs=( )
+		runningFetchers=0
+		tickets=2
+		body=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<request protocol="3.0" version="KeystoneAgent-1.2.11.124" ismachine="0" requestid="{81AF7D65-8E55-411E-B3D8-0442E006F10D}" dedup="cr" sessionid="{0A287875-4508-4358-A878-9C4694942B67}">
+			    <os platform="mac" version="10.13" arch="x86_64h" sp="10.13.6_x86_64h"></os>
+			    <app appid="com.google.android.mtpviewer" version="1.0.50.2266" lang="en-us" installage="2" brand="GGLG" signed="1">
+			        <ping r="1" rd="4264" ping_freshness="{25FB5D9F-35A6-4313-BC7B-5C29B91648CD}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			    <app appid="com.google.Chrome" version="68.0.3440.106" cohort="1:1y5:pe9@0.1" cohortname="Stable" lang="en-us" installage="57" installdate="4207" brand="GGRO" signed="1">
+			        <ping r="1" rd="4264" ping_freshness="{27D1E29F-6E50-406C-9B5F-AE76DB735A6C}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			</request>
+		headers={
+			"X-Goog-Update-Interactivity" = bg;
+		}
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.702 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070"
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.703 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 1359
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.704 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070"
+ksfetch[1359]: 2018-09-05 19:16:46.762 ksfetch[1359/0x7fff99133380] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 2537 bytes from stdin.
+ksfetch[1359]: 2018-09-05 19:16:46.765 ksfetch[1359/0x7fff99133380] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x7fb526c2bcd0> { URL: http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070 }
+ksfetch[1359]: 2018-09-05 19:16:46.766 ksfetch[1359/0x7fff99133380] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.8ZqA0duOLq/download
+ksfetch[1359]: 2018-09-05 19:16:46.767 ksfetch[1359/0x7fff99133380] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x7fb526c2bcd0> { URL: http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070 }) to folder:/tmp/KSOutOfProcessFetcher.8ZqA0duOLq/download
+ksfetch[1359]: 2018-09-05 19:16:46.767 ksfetch[1359/0x7fff99133380] [lvl=2] main() Setting up download file handles...
+ksfetch[1359]: 2018-09-05 19:16:46.796 ksfetch[1359/0x7fff99133380] [lvl=2] -[FetchDelegate fetcher:failedWithError:] Fetcher generated error: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo={NSUnderlyingError=0x7fb526d13330 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=The Internet connection appears to be offline.}
+ksfetch[1359]: 2018-09-05 19:16:46.797 ksfetch[1359/0x7fff99133380] [lvl=2] main() ksfetch done fetching.
+ksfetch[1359]: 2018-09-05 19:16:46.800 ksfetch[1359/0x7fff99133380] [lvl=2] main() Fetcher is exiting.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.803 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:
+	:	<>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.803 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070"
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.804 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateCheckAction(PrivateMethods) finishAction] KSUpdateCheckAction found updates: {( )}
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.812 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.813 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSMultiUpdateAction performAction] KSSilentUpdateAction had no updates to apply.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.813 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.813 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=1
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.813 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSUpdateEngine(PrivateMethods) updateFinish] KSUpdateEngine update processing complete.
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.814 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) updateProductWithProductID:usingEngine:error:] Done checking for updates for '"All Products"' using engine <KSUpdateEngine:0x7ffeb6461710
+		ticketStore=<KSPersistentTicketStore:0x7ffeb6432a70 store=<KSKeyedPersistentStore:0x7ffeb6459200
+			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x7ffeb662f030
+				path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				resolvedPath="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				shared=NO	fileSpecificLock=0x7ffeb662fea0>
+			keyType=NSString
+			valueTypes={(
+				KSTicket
+			)}
+		>>
+		processor=<KSActionProcessor:0x7ffeb6647530
+			delegate=<KSUpdateEngine:0x7ffeb6461710>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSEngineInvocation: 0x7ffeb6459b90>
+		serverInfoStore=<KSServerPrivateInfoStore:0x7ffeb6461020 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.841 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSAgentUploader fetcher:failedWithError:] Failed to upload stats to <NSMutableURLRequest: 0x7ffeb8864870> { URL: https://tools.google.com/service/update2 } with error Error Domain=NSURLErrorDomain Code=-1009 "似乎已断开与互联网的连接。" UserInfo={NSUnderlyingError=0x7ffeb652c430 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "似乎已断开与互联网的连接。" UserInfo={NSErrorFailingURLStringKey=https://tools.google.com/service/update2, NSErrorFailingURLKey=https://tools.google.com/service/update2, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=似乎已断开与互联网的连接。}}, NSErrorFailingURLStringKey=https://tools.google.com/service/update2, NSErrorFailingURLKey=https://tools.google.com/service/update2, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=似乎已断开与互联网的连接。}
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.842 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSAgentApp(PrivateMethods) uploadStats:forInvocation:error:] Failed to upload stats <KSStatsCollection:0x7ffeb644b140 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Stats/Keystone.stats", count=6, stats={
+	    checks = 6;
+	    failedchecks = 6;
+	    tickets = 2;
+	    usertickets = 3;
+	    validtickets = 2;
+	    validusertickets = 3;
+	}>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.842 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Failed to upload Keystone statistics: (null)
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:47.893 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Finished with engine thread
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:47.899 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSEngineInvocation(KeystoneThread) runKeystonesInThread] Encountered errors during update: {
+		"com.google.Keystone" = {(
+			<KSUpdateError:0x7ffeb67263c0
+				domain="com.google.UpdateEngine.CoreErrorDomain"
+				code=702
+				userInfo={
+					function = "-[KSServerUpdateRequest(PrivateMethods) fetcher:failedWithError:]";
+					NSURL = http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618;
+					date = 2018-09-05 23:16:44 +0000;
+					productids = {(
+						"com.google.Keystone"
+					)};
+					filename = "KSServerUpdateRequest.m";
+					line = 381;
+					NSLocalizedDescription = "KSServerUpdateRequest fetch failed.";
+					NSUnderlyingError = <KSError:0x7ffeb6726d20
+						domain=NSURLErrorDomain
+						code=-1009
+						userInfo={
+							NSLocalizedDescription = "The Internet connection appears to be offline.";
+							NSErrorFailingURLStringKey = "http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618";
+							NSErrorFailingURLKey = http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618;
+							"_kCFStreamErrorDomainKey" = 1;
+							"_kCFStreamErrorCodeKey" = 50;
+							NSUnderlyingError = Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:1965032618, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.};
+						}
+					>;
+				}
+			>
+		)};
+		"com.google.android.mtpviewer" = {(
+			<KSUpdateError:0x7ffeb665aa70
+				domain="com.google.UpdateEngine.CoreErrorDomain"
+				code=702
+				userInfo={
+					function = "-[KSServerUpdateRequest(PrivateMethods) fetcher:failedWithError:]";
+					NSURL = http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070;
+					date = 2018-09-05 23:16:46 +0000;
+					productids = {(
+						"com.google.android.mtpviewer",
+						"com.google.Chrome"
+					)};
+					filename = "KSServerUpdateRequest.m";
+					line = 381;
+					NSLocalizedDescription = "KSServerUpdateRequest fetch failed.";
+					NSUnderlyingError = <KSError:0x7ffeb672acb0
+						domain=NSURLErrorDomain
+						code=-1009
+						userInfo={
+							NSLocalizedDescription = "The Internet connection appears to be offline.";
+							NSErrorFailingURLStringKey = "http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070";
+							NSErrorFailingURLKey = http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070;
+							"_kCFStreamErrorDomainKey" = 1;
+							"_kCFStreamErrorCodeKey" = 50;
+							NSUnderlyingError = Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.};
+						}
+					>;
+				}
+			>
+		)};
+		"com.google.Chrome" = {(
+			<KSUpdateError:0x7ffeb665aa70
+				domain="com.google.UpdateEngine.CoreErrorDomain"
+				code=702
+				userInfo={
+					function = "-[KSServerUpdateRequest(PrivateMethods) fetcher:failedWithError:]";
+					NSURL = http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070;
+					date = 2018-09-05 23:16:46 +0000;
+					productids = {(
+						"com.google.android.mtpviewer",
+						"com.google.Chrome"
+					)};
+					filename = "KSServerUpdateRequest.m";
+					line = 381;
+					NSLocalizedDescription = "KSServerUpdateRequest fetch failed.";
+					NSUnderlyingError = <KSError:0x7ffeb672acb0
+						domain=NSURLErrorDomain
+						code=-1009
+						userInfo={
+							NSLocalizedDescription = "The Internet connection appears to be offline.";
+							NSErrorFailingURLStringKey = "http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070";
+							NSErrorFailingURLKey = http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070;
+							"_kCFStreamErrorDomainKey" = 1;
+							"_kCFStreamErrorCodeKey" = 50;
+							NSUnderlyingError = Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo={NSErrorFailingURLStringKey=http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070, NSErrorFailingURLKey=http://tools.google.com/service/update2?cup2hreq=6d3803725a34d728a18edb94bdf93282e2d39c5b8abd9d70b4ace4f734c1f78c&cup2key=8:2320372070, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=The Internet connection appears to be offline.};
+						}
+					>;
+				}
+			>
+		)};
+	}
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:47.900 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSAgentApp(PrivateMethods) setUpLoggerOutputForVerboseMode:] Agent default/global settings: <KSAgentSettings:0x7ffeb6448f40 bundleID=com.google.Keystone.Agent lastCheck=2018-09-04 20:38:18 +0000 lastServerCheck=2018-09-04 20:38:02 +0000 lastCheckStart=2018-09-05 23:16:44 +0000 checkInterval=18000.000000 uiDisplayInterval=604800.000000 sleepInterval=1800.000000 jitterInterval=900 maxRunInterval=0.000000 isConsoleUser=1 ticketStorePath=/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore runMode=3 daemonUpdateEngineBrokerServiceName=com.google.Keystone.Daemon.UpdateEngine daemonAdministrationServiceName=com.google.Keystone.Daemon.Administration alwaysPromptForUpdates=0 lastUIDisplayed=(null) alwaysShowStatusItem=0 updateCheckTag=(null) printResults=NO userInitiated=NO>
+GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:48.144 GoogleSoftwareUpdateAgent[1353/0x7fff99133380] [lvl=2] -[KSAgentApp(PrivateMethods) checkForUpdatesUsingArguments:snapshot:error:] Finished update check. Result: Failure.
+com.apple.xpc.launchd[1] (com.google.keystone.user.agent[1353]): Service exited with abnormal code: 1
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.91" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.SystemUIServer.agent
+--- last message repeated 1 time ---
+syslogd[39]: ASL Sender Statistics
+xpcproxy[1369]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+timed[80]: settimeofday({0x5b9083c4,0x2a3fd}) == 0
+netbiosd[1369]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?
+logd[57]: Time zone changed, updating file headers
+--- last message repeated 1 time ---
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1391, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1392, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1393, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1394, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1396, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1422, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+--- last message repeated 1 time ---
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.quicklook[1807]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+--- last message repeated 2 times ---
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.quicklook[1836]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+syslogd[39]: ASL Sender Statistics
+--- last message repeated 1 time ---
+com.apple.xpc.launchd[1] (com.apple.quicklook[1852]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.quicklook[1876]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.quicklook[2033]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+KeePassXC[1406]: BUG in libdispatch client: kevent[mach_recv] monitored resource vanished before the source cancel handler was invoked
+syslogd[39]: ASL Sender Statistics
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.quicklook[2062]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.91" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.SystemUIServer.agent
+--- last message repeated 1 time ---
+syslogd[39]: ASL Sender Statistics
+systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+com.apple.xpc.launchd[1] (com.apple.quicklook[2299]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+login[2300]: USER_PROCESS: 2300 ttys001
+com.apple.xpc.launchd[1] (com.apple.quicklook[2482]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+login[2483]: USER_PROCESS: 2483 ttys002
+com.apple.xpc.launchd[1] (com.apple.quicklook[3226]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+syslogd[39]: ASL Sender Statistics
