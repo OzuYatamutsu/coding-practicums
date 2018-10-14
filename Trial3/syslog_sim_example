@@ -1,0 +1,84 @@
+Wed Sep  5 19:44:19 2018 localhost com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1392, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+
+Wed Sep  5 19:44:21 2018 localhost 				shared=NO	fileSpecificLock=0x7ffeb662fea0>
+
+Wed Sep  5 19:44:23 2018 localhost com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 0 seconds. Pushing respawn out by 60 seconds.
+
+Wed Sep  5 19:44:25 2018 localhost GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.346 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 938
+
+Wed Sep  5 19:44:27 2018 localhost 			"X-Goog-Update-Interactivity" = bg;
+
+Wed Sep  5 19:44:29 2018 localhost TeamViewer[477]: AccountLoginStateMachine::RegisterForKeepAlive: lost connection
+
+Wed Sep  5 19:44:31 2018 localhost 			</request>
+
+Wed Sep  5 19:44:33 2018 localhost 						"com.google.Keystone"
+
+Wed Sep  5 19:44:35 2018 localhost 	    failedchecks = 6;
+
+Wed Sep  5 19:44:37 2018 localhost 	    validusertickets = 3;
+
+Wed Sep  5 19:44:39 2018 localhost 		errors=0
+
+Wed Sep  5 19:44:41 2018 localhost 		>>
+
+Wed Sep  5 19:44:43 2018 localhost GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.703 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/jinhai/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 1359
+
+Wed Sep  5 19:44:45 2018 localhost Dock[357]: BUG in libdispatch client: kevent[mach_recv] monitored resource vanished before the source cancel handler was invoked
+
+Wed Sep  5 19:44:47 2018 localhost ksfetch[1357]: 2018-09-05 19:16:44.766 ksfetch[1357/0x7fff99133380] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.an3PKSBKkX/download
+
+Wed Sep  5 19:44:49 2018 localhost GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:20.860 GoogleSoftwareUpdateAgent[932/0x7fff99133380] [lvl=2] -[KSAgentApp(PrivateMethods) checkForUpdatesUsingArguments:snapshot:error:] Finished update check. Result: Failure.
+
+Wed Sep  5 19:44:51 2018 localhost TeamViewer[477]: ChatManager::ClearAccountChat: clearPersistently = 0
+
+Wed Sep  5 19:44:53 2018 localhost 			        <ping r="1" rd="4264" ping_freshness="{27D1E29F-6E50-406C-9B5F-AE76DB735A6C}"></ping>
+
+Wed Sep  5 19:44:55 2018 localhost 			"X-Goog-Update-Interactivity" = bg;
+
+Wed Sep  5 19:44:57 2018 localhost systemstats[50]: assertion failed: 17G65: systemstats + 914800 [D1E75C38-62CE-3D77-9ED3-5F6D38EF0676]: 0x40
+
+Wed Sep  5 19:44:59 2018 localhost login[1018]: DEAD_PROCESS: 1018 ttys002
+
+Wed Sep  5 19:45:01 2018 localhost 					filename = "KSServerUpdateRequest.m";
+
+Wed Sep  5 19:45:03 2018 localhost 	}
+
+Wed Sep  5 19:45:05 2018 localhost com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller not allowed to perform action: plugin-containe.1422, action = pid-local registration, code = 1: Operation not permitted, uid = 501, euid = 501, gid = 20, egid = 20, asid = 100007
+
+Wed Sep  5 19:45:07 2018 localhost GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:44.576 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "https://tools.google.com/service/update2?cup2hreq=9b87a3eee606e03bcac945e562a93b0434577527ed2ee72d1d7557096274e515&cup2key=8:3546305304"
+
+Wed Sep  5 19:45:09 2018 localhost --- last message repeated 1 time ---
+
+Wed Sep  5 19:45:11 2018 localhost 			keyType=NSString
+
+Wed Sep  5 19:45:13 2018 localhost 			        <ping r="1" rd="4264" ping_freshness="{25FB5D9F-35A6-4313-BC7B-5C29B91648CD}"></ping>
+
+Wed Sep  5 19:45:15 2018 localhost 			versionKey=KSVersion
+
+Wed Sep  5 19:45:17 2018 localhost 			    <app appid="com.google.Chrome" version="68.0.3440.106" cohort="1:1y5:pe9@0.1" cohortname="Stable" lang="en-us" installage="57" installdate="4207" brand="GGRO" signed="1">
+
+Wed Sep  5 19:45:19 2018 localhost 			path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+
+Wed Sep  5 19:45:21 2018 localhost 		body=
+
+Wed Sep  5 19:45:23 2018 localhost 				userInfo={
+
+Wed Sep  5 19:45:25 2018 localhost 					NSLocalizedDescription = "KSServerUpdateRequest fetch failed.";
+
+Wed Sep  5 19:45:28 2018 localhost 						userInfo={
+Wed Sep  5 19:45:30 2018 localhost 			        <ping r="1" rd="4264" ping_freshness="{27D1E29F-6E50-406C-9B5F-AE76DB735A6C}"></ping>
+Wed Sep  5 19:45:32 2018 localhost GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.345 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "http://tools.google.com/service/update2?cup2hreq=33d49aa6a60f2516ddbd9fba5a3f50edc23b207e9fadf383499c5ff705ce721d&cup2key=8:1493732825"
+Wed Sep  5 19:45:34 2018 localhost TeamViewer_Service[54]: CAcceptServer::HandleAccept: socket closed
+Wed Sep  5 19:45:36 2018 localhost com.apple.xpc.launchd[1] (com.apple.mdworker.single.07000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+Wed Sep  5 19:45:38 2018 localhost 						"com.google.android.mtpviewer",
+Wed Sep  5 19:45:40 2018 localhost 		ticketStore=<KSPersistentTicketStore:0x7ffeb6432a70 store=<KSKeyedPersistentStore:0x7ffeb6459200
+Wed Sep  5 19:45:42 2018 localhost 		>
+Wed Sep  5 19:45:44 2018 localhost TeamViewer_Desktop[480]: TeamViewer_Desktop Stop
+Wed Sep  5 19:45:46 2018 localhost Spotlight[400]: assertion failed: 17G65: libxpc.dylib + 75013 [0BC7AD67-671D-31D4-8B88-C317B8379598]: 0x89
+Wed Sep  5 19:45:48 2018 localhost 					function = "-[KSServerUpdateRequest(PrivateMethods) fetcher:failedWithError:]";
+Wed Sep  5 19:45:50 2018 localhost parsecd[437]: libcoreservices: _dirhelper: 666: mkdir: path=/var/folders/fz/dvcv7l690654r1dwm1177g880000gn/0/com.apple.parsecd/ modes[0]=0755: Operation not permitted
+Wed Sep  5 19:45:52 2018 localhost 		>
+Wed Sep  5 19:45:54 2018 localhost ksfetch[935]: 2018-09-05 18:16:17.565 ksfetch[935/0x7fff99133380] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x7fd05061def0> { URL: https://tools.google.com/service/update2?cup2hreq=b5a93f4af348437b9d6ca1bd1657e64d73a1715b2dd5954e3f88f3214f5e7090&cup2key=8:1306059625 }
+Wed Sep  5 19:45:56 2018 localhost 			    <app appid="com.google.android.mtpviewer" version="1.0.50.2266" lang="en-us" installage="2" brand="GGLG" signed="1">
+Wed Sep  5 19:45:58 2018 localhost syslogd[39]: ASL Sender Statistics
