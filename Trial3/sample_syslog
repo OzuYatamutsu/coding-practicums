@@ -572,7 +572,6 @@ GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.438 GoogleSoftwareUpdateAgen
 		serverInfoStore=<KSServerPrivateInfoStore:0x7fdd7b4837d0 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
 		errors=0
 	>
-GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.477 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSAgentUploader fetcher:failedWithError:] Failed to upload stats to <NSMutableURLRequest: 0x7fdd7b5d9310> { URL: https://tools.google.com/service/update2 } with error Error Domain=NSURLErrorDomain Code=-1009 "似乎已断开与互联网的连接。" UserInfo={NSUnderlyingError=0x7fdd7b72bad0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "似乎已断开与互联网的连接。" UserInfo={NSErrorFailingURLStringKey=https://tools.google.com/service/update2, NSErrorFailingURLKey=https://tools.google.com/service/update2, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=似乎已断开与互联网的连接。}}, NSErrorFailingURLStringKey=https://tools.google.com/service/update2, NSErrorFailingURLKey=https://tools.google.com/service/update2, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=似乎已断开与互联网的连接。}
 GoogleSoftwareUpdateAgent[932]: 2018-09-05 18:16:19.478 GoogleSoftwareUpdateAgent[932/0x70000e8d6000] [lvl=2] -[KSAgentApp(PrivateMethods) uploadStats:forInvocation:error:] Failed to upload stats <KSStatsCollection:0x7fdd7b468240 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Stats/Keystone.stats", count=6, stats={
 	    checks = 4;
 	    failedchecks = 4;
@@ -1082,7 +1081,6 @@ GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.814 GoogleSoftwareUpdateAge
 		serverInfoStore=<KSServerPrivateInfoStore:0x7ffeb6461020 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Servers">
 		errors=0
 	>
-GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.841 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSAgentUploader fetcher:failedWithError:] Failed to upload stats to <NSMutableURLRequest: 0x7ffeb8864870> { URL: https://tools.google.com/service/update2 } with error Error Domain=NSURLErrorDomain Code=-1009 "似乎已断开与互联网的连接。" UserInfo={NSUnderlyingError=0x7ffeb652c430 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 "似乎已断开与互联网的连接。" UserInfo={NSErrorFailingURLStringKey=https://tools.google.com/service/update2, NSErrorFailingURLKey=https://tools.google.com/service/update2, _kCFStreamErrorCodeKey=50, _kCFStreamErrorDomainKey=1, NSLocalizedDescription=似乎已断开与互联网的连接。}}, NSErrorFailingURLStringKey=https://tools.google.com/service/update2, NSErrorFailingURLKey=https://tools.google.com/service/update2, _kCFStreamErrorDomainKey=1, _kCFStreamErrorCodeKey=50, NSLocalizedDescription=似乎已断开与互联网的连接。}
 GoogleSoftwareUpdateAgent[1353]: 2018-09-05 19:16:46.842 GoogleSoftwareUpdateAgent[1353/0x700006c41000] [lvl=2] -[KSAgentApp(PrivateMethods) uploadStats:forInvocation:error:] Failed to upload stats <KSStatsCollection:0x7ffeb644b140 path="/Users/jinhai/Library/Google/GoogleSoftwareUpdate/Stats/Keystone.stats", count=6, stats={
 	    checks = 6;
 	    failedchecks = 6;
